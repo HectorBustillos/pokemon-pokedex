@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Pokemon pokedex, checa mas de 700 pokemones con especificaciones de cada uno de ellos">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pokedex!</title>
+
+    <link rel="icon" type="image/png" href="pokeball.ico" sizes="32x32" />
+    <link rel="stylesheet" href="pokedex/css/normalize.css">
+    <link rel="stylesheet" href="pokedex/css/pokedex.css">
+    <link rel="stylesheet" href="pokedex/vendor/hover/hover.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="pokedex/vendor/alert/css/alertify.core.css">
+    <link rel="stylesheet" href="pokedex/vendor/alert/css/alertify.default.css">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript" src="pokedex/vendor/alert/alertify.min.js"></script>
+  </head>
+  <body>
+    <div class="wrap cfix">
+      <a href="/pokedex"><div class="pokemonLogo"></div></a>
+      <div class="search">
+        <input type="text" placeholder="Jigglypuff,  #025,  Fire" id="search-criteria"/>
+        <input type="button" id="search" value="search"/>
+      </div>
+      <div class="pokemonContainer">
+      </div>
+      <div id="loadMore" class="alertify-button-ok">Load More</div>
+      <i id="scrollToTop" class="fa fa-arrow-circle-up grow"></i>
+    </div>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-53850008-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <script type="text/javascript" src="pokedex/js/vendor/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="pokedex/js/pokedex.js"></script>
+    <script type="text/javascript" src="pokedex/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+  </body>
+</html>
