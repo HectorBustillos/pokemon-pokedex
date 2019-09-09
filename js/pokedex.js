@@ -1,12 +1,12 @@
 $( document ).ready(function(){
   $.ajax({
-    url: '/pokedex/json/pokemon/pokemon.json',
+    url: 'json/pokemon/pokemon.json',
     type: 'GET',
     dataType: 'json',
     success: function (json) {
       $.each(json.objects[0].pokemon, function(pokemon){
         $.ajax({
-          url: '/pokedex' + this.resource_uri + '',
+          url: this.resource_uri + '',
           type: 'GET',
           dataType: 'json',
           success: function(pokemonData){

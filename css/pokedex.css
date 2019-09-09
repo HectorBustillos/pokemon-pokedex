@@ -8,7 +8,7 @@ body {
   overflow: hidden;
 }
 .pokemonLogo {
-  background-image: url("/pokedex/img/pokemonlogo.png");
+  background-image: url("../img/pokemonlogo.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
@@ -22,7 +22,7 @@ body {
   width: 35%;
 }
 .search #search-criteria {
-  background: #FFFFFF url("/pokedex/img/search.png") no-repeat 4px;
+  background: #FFFFFF url("../img/search.png") no-repeat 4px;
   background-size: 20px;
   border-radius: 10px;
   border: 3px solid #fcbf0c;

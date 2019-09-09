@@ -14,2875 +14,2875 @@
       "pokemon": [
         {
           "name": "bulbasaur",
-          "resource_uri": "/json/pokemon/1.json/"
+          "resource_uri": "json/pokemon/1.json"
         },
         {
           "name": "ivysaur",
-          "resource_uri": "/json/pokemon/2.json/"
+          "resource_uri": "json/pokemon/2.json"
         },
         {
           "name": "venusaur",
-          "resource_uri": "/json/pokemon/3.json/"
+          "resource_uri": "json/pokemon/3.json"
         },
         {
           "name": "charmander",
-          "resource_uri": "/json/pokemon/4.json/"
+          "resource_uri": "json/pokemon/4.json"
         },
         {
           "name": "charmeleon",
-          "resource_uri": "/json/pokemon/5.json/"
+          "resource_uri": "json/pokemon/5.json"
         },
         {
           "name": "charizard",
-          "resource_uri": "/json/pokemon/6.json/"
+          "resource_uri": "json/pokemon/6.json"
         },
         {
           "name": "squirtle",
-          "resource_uri": "/json/pokemon/7.json/"
+          "resource_uri": "json/pokemon/7.json"
         },
         {
           "name": "wartortle",
-          "resource_uri": "/json/pokemon/8.json/"
+          "resource_uri": "json/pokemon/8.json"
         },
         {
           "name": "blastoise",
-          "resource_uri": "/json/pokemon/9.json/"
+          "resource_uri": "json/pokemon/9.json"
         },
         {
           "name": "caterpie",
-          "resource_uri": "/json/pokemon/10.json/"
+          "resource_uri": "json/pokemon/10.json"
         },
         {
           "name": "metapod",
-          "resource_uri": "/json/pokemon/11.json/"
+          "resource_uri": "json/pokemon/11.json"
         },
         {
           "name": "butterfree",
-          "resource_uri": "/json/pokemon/12.json/"
+          "resource_uri": "json/pokemon/12.json"
         },
         {
           "name": "weedle",
-          "resource_uri": "/json/pokemon/13.json/"
+          "resource_uri": "json/pokemon/13.json"
         },
         {
           "name": "kakuna",
-          "resource_uri": "/json/pokemon/14.json/"
+          "resource_uri": "json/pokemon/14.json"
         },
         {
           "name": "beedrill",
-          "resource_uri": "/json/pokemon/15.json/"
+          "resource_uri": "json/pokemon/15.json"
         },
         {
           "name": "pidgey",
-          "resource_uri": "/json/pokemon/16.json/"
+          "resource_uri": "json/pokemon/16.json"
         },
         {
           "name": "pidgeotto",
-          "resource_uri": "/json/pokemon/17.json/"
+          "resource_uri": "json/pokemon/17.json"
         },
         {
           "name": "pidgeot",
-          "resource_uri": "/json/pokemon/18.json/"
+          "resource_uri": "json/pokemon/18.json"
         },
         {
           "name": "rattata",
-          "resource_uri": "/json/pokemon/19.json/"
+          "resource_uri": "json/pokemon/19.json"
         },
         {
           "name": "raticate",
-          "resource_uri": "/json/pokemon/20.json/"
+          "resource_uri": "json/pokemon/20.json"
         },
         {
           "name": "spearow",
-          "resource_uri": "/json/pokemon/21.json/"
+          "resource_uri": "json/pokemon/21.json"
         },
         {
           "name": "fearow",
-          "resource_uri": "/json/pokemon/22.json/"
+          "resource_uri": "json/pokemon/22.json"
         },
         {
           "name": "ekans",
-          "resource_uri": "/json/pokemon/23.json/"
+          "resource_uri": "json/pokemon/23.json"
         },
         {
           "name": "arbok",
-          "resource_uri": "/json/pokemon/24.json/"
+          "resource_uri": "json/pokemon/24.json"
         },
         {
           "name": "pikachu",
-          "resource_uri": "/json/pokemon/25.json/"
+          "resource_uri": "json/pokemon/25.json"
         },
         {
           "name": "raichu",
-          "resource_uri": "/json/pokemon/26.json/"
+          "resource_uri": "json/pokemon/26.json"
         },
         {
           "name": "sandshrew",
-          "resource_uri": "/json/pokemon/27.json/"
+          "resource_uri": "json/pokemon/27.json"
         },
         {
           "name": "sandslash",
-          "resource_uri": "/json/pokemon/28.json/"
+          "resource_uri": "json/pokemon/28.json"
         },
         {
           "name": "nidoran-f",
-          "resource_uri": "/json/pokemon/29.json/"
+          "resource_uri": "json/pokemon/29.json"
         },
         {
           "name": "nidorina",
-          "resource_uri": "/json/pokemon/30.json/"
+          "resource_uri": "json/pokemon/30.json"
         },
         {
           "name": "nidoqueen",
-          "resource_uri": "/json/pokemon/31.json/"
+          "resource_uri": "json/pokemon/31.json"
         },
         {
           "name": "nidoran-m",
-          "resource_uri": "/json/pokemon/32.json/"
+          "resource_uri": "json/pokemon/32.json"
         },
         {
           "name": "nidorino",
-          "resource_uri": "/json/pokemon/33.json/"
+          "resource_uri": "json/pokemon/33.json"
         },
         {
           "name": "nidoking",
-          "resource_uri": "/json/pokemon/34.json/"
+          "resource_uri": "json/pokemon/34.json"
         },
         {
           "name": "clefairy",
-          "resource_uri": "/json/pokemon/35.json/"
+          "resource_uri": "json/pokemon/35.json"
         },
         {
           "name": "clefable",
-          "resource_uri": "/json/pokemon/36.json/"
+          "resource_uri": "json/pokemon/36.json"
         },
         {
           "name": "vulpix",
-          "resource_uri": "/json/pokemon/37.json/"
+          "resource_uri": "json/pokemon/37.json"
         },
         {
           "name": "ninetales",
-          "resource_uri": "/json/pokemon/38.json/"
+          "resource_uri": "json/pokemon/38.json"
         },
         {
           "name": "jigglypuff",
-          "resource_uri": "/json/pokemon/39.json/"
+          "resource_uri": "json/pokemon/39.json"
         },
         {
           "name": "wigglytuff",
-          "resource_uri": "/json/pokemon/40.json/"
+          "resource_uri": "json/pokemon/40.json"
         },
         {
           "name": "zubat",
-          "resource_uri": "/json/pokemon/41.json/"
+          "resource_uri": "json/pokemon/41.json"
         },
         {
           "name": "golbat",
-          "resource_uri": "/json/pokemon/42.json/"
+          "resource_uri": "json/pokemon/42.json"
         },
         {
           "name": "oddish",
-          "resource_uri": "/json/pokemon/43.json/"
+          "resource_uri": "json/pokemon/43.json"
         },
         {
           "name": "gloom",
-          "resource_uri": "/json/pokemon/44.json/"
+          "resource_uri": "json/pokemon/44.json"
         },
         {
           "name": "vileplume",
-          "resource_uri": "/json/pokemon/45.json/"
+          "resource_uri": "json/pokemon/45.json"
         },
         {
           "name": "paras",
-          "resource_uri": "/json/pokemon/46.json/"
+          "resource_uri": "json/pokemon/46.json"
         },
         {
           "name": "parasect",
-          "resource_uri": "/json/pokemon/47.json/"
+          "resource_uri": "json/pokemon/47.json"
         },
         {
           "name": "venonat",
-          "resource_uri": "/json/pokemon/48.json/"
+          "resource_uri": "json/pokemon/48.json"
         },
         {
           "name": "venomoth",
-          "resource_uri": "/json/pokemon/49.json/"
+          "resource_uri": "json/pokemon/49.json"
         },
         {
           "name": "diglett",
-          "resource_uri": "/json/pokemon/50.json/"
+          "resource_uri": "json/pokemon/50.json"
         },
         {
           "name": "dugtrio",
-          "resource_uri": "/json/pokemon/51.json/"
+          "resource_uri": "json/pokemon/51.json"
         },
         {
           "name": "meowth",
-          "resource_uri": "/json/pokemon/52.json/"
+          "resource_uri": "json/pokemon/52.json"
         },
         {
           "name": "persian",
-          "resource_uri": "/json/pokemon/53.json/"
+          "resource_uri": "json/pokemon/53.json"
         },
         {
           "name": "psyduck",
-          "resource_uri": "/json/pokemon/54.json/"
+          "resource_uri": "json/pokemon/54.json"
         },
         {
           "name": "golduck",
-          "resource_uri": "/json/pokemon/55.json/"
+          "resource_uri": "json/pokemon/55.json"
         },
         {
           "name": "mankey",
-          "resource_uri": "/json/pokemon/56.json/"
+          "resource_uri": "json/pokemon/56.json"
         },
         {
           "name": "primeape",
-          "resource_uri": "/json/pokemon/57.json/"
+          "resource_uri": "json/pokemon/57.json"
         },
         {
           "name": "growlithe",
-          "resource_uri": "/json/pokemon/58.json/"
+          "resource_uri": "json/pokemon/58.json"
         },
         {
           "name": "arcanine",
-          "resource_uri": "/json/pokemon/59.json/"
+          "resource_uri": "json/pokemon/59.json"
         },
         {
           "name": "poliwag",
-          "resource_uri": "/json/pokemon/60.json/"
+          "resource_uri": "json/pokemon/60.json"
         },
         {
           "name": "poliwhirl",
-          "resource_uri": "/json/pokemon/61.json/"
+          "resource_uri": "json/pokemon/61.json"
         },
         {
           "name": "poliwrath",
-          "resource_uri": "/json/pokemon/62.json/"
+          "resource_uri": "json/pokemon/62.json"
         },
         {
           "name": "abra",
-          "resource_uri": "/json/pokemon/63.json/"
+          "resource_uri": "json/pokemon/63.json"
         },
         {
           "name": "kadabra",
-          "resource_uri": "/json/pokemon/64.json/"
+          "resource_uri": "json/pokemon/64.json"
         },
         {
           "name": "alakazam",
-          "resource_uri": "/json/pokemon/65.json/"
+          "resource_uri": "json/pokemon/65.json"
         },
         {
           "name": "machop",
-          "resource_uri": "/json/pokemon/66.json/"
+          "resource_uri": "json/pokemon/66.json"
         },
         {
           "name": "machoke",
-          "resource_uri": "/json/pokemon/67.json/"
+          "resource_uri": "json/pokemon/67.json"
         },
         {
           "name": "machamp",
-          "resource_uri": "/json/pokemon/68.json/"
+          "resource_uri": "json/pokemon/68.json"
         },
         {
           "name": "bellsprout",
-          "resource_uri": "/json/pokemon/69.json/"
+          "resource_uri": "json/pokemon/69.json"
         },
         {
           "name": "weepinbell",
-          "resource_uri": "/json/pokemon/70.json/"
+          "resource_uri": "json/pokemon/70.json"
         },
         {
           "name": "victreebel",
-          "resource_uri": "/json/pokemon/71.json/"
+          "resource_uri": "json/pokemon/71.json"
         },
         {
           "name": "tentacool",
-          "resource_uri": "/json/pokemon/72.json/"
+          "resource_uri": "json/pokemon/72.json"
         },
         {
           "name": "tentacruel",
-          "resource_uri": "/json/pokemon/73.json/"
+          "resource_uri": "json/pokemon/73.json"
         },
         {
           "name": "geodude",
-          "resource_uri": "/json/pokemon/74.json/"
+          "resource_uri": "json/pokemon/74.json"
         },
         {
           "name": "graveler",
-          "resource_uri": "/json/pokemon/75.json/"
+          "resource_uri": "json/pokemon/75.json"
         },
         {
           "name": "golem",
-          "resource_uri": "/json/pokemon/76.json/"
+          "resource_uri": "json/pokemon/76.json"
         },
         {
           "name": "ponyta",
-          "resource_uri": "/json/pokemon/77.json/"
+          "resource_uri": "json/pokemon/77.json"
         },
         {
           "name": "rapidash",
-          "resource_uri": "/json/pokemon/78.json/"
+          "resource_uri": "json/pokemon/78.json"
         },
         {
           "name": "slowpoke",
-          "resource_uri": "/json/pokemon/79.json/"
+          "resource_uri": "json/pokemon/79.json"
         },
         {
           "name": "slowbro",
-          "resource_uri": "/json/pokemon/80.json/"
+          "resource_uri": "json/pokemon/80.json"
         },
         {
           "name": "magnemite",
-          "resource_uri": "/json/pokemon/81.json/"
+          "resource_uri": "json/pokemon/81.json"
         },
         {
           "name": "magneton",
-          "resource_uri": "/json/pokemon/82.json/"
+          "resource_uri": "json/pokemon/82.json"
         },
         {
           "name": "farfetchd",
-          "resource_uri": "/json/pokemon/83.json/"
+          "resource_uri": "json/pokemon/83.json"
         },
         {
           "name": "doduo",
-          "resource_uri": "/json/pokemon/84.json/"
+          "resource_uri": "json/pokemon/84.json"
         },
         {
           "name": "dodrio",
-          "resource_uri": "/json/pokemon/85.json/"
+          "resource_uri": "json/pokemon/85.json"
         },
         {
           "name": "seel",
-          "resource_uri": "/json/pokemon/86.json/"
+          "resource_uri": "json/pokemon/86.json"
         },
         {
           "name": "dewgong",
-          "resource_uri": "/json/pokemon/87.json/"
+          "resource_uri": "json/pokemon/87.json"
         },
         {
           "name": "grimer",
-          "resource_uri": "/json/pokemon/88.json/"
+          "resource_uri": "json/pokemon/88.json"
         },
         {
           "name": "muk",
-          "resource_uri": "/json/pokemon/89.json/"
+          "resource_uri": "json/pokemon/89.json"
         },
         {
           "name": "shellder",
-          "resource_uri": "/json/pokemon/90.json/"
+          "resource_uri": "json/pokemon/90.json"
         },
         {
           "name": "cloyster",
-          "resource_uri": "/json/pokemon/91.json/"
+          "resource_uri": "json/pokemon/91.json"
         },
         {
           "name": "gastly",
-          "resource_uri": "/json/pokemon/92.json/"
+          "resource_uri": "json/pokemon/92.json"
         },
         {
           "name": "haunter",
-          "resource_uri": "/json/pokemon/93.json/"
+          "resource_uri": "json/pokemon/93.json"
         },
         {
           "name": "gengar",
-          "resource_uri": "/json/pokemon/94.json/"
+          "resource_uri": "json/pokemon/94.json"
         },
         {
           "name": "onix",
-          "resource_uri": "/json/pokemon/95.json/"
+          "resource_uri": "json/pokemon/95.json"
         },
         {
           "name": "drowzee",
-          "resource_uri": "/json/pokemon/96.json/"
+          "resource_uri": "json/pokemon/96.json"
         },
         {
           "name": "hypno",
-          "resource_uri": "/json/pokemon/97.json/"
+          "resource_uri": "json/pokemon/97.json"
         },
         {
           "name": "krabby",
-          "resource_uri": "/json/pokemon/98.json/"
+          "resource_uri": "json/pokemon/98.json"
         },
         {
           "name": "kingler",
-          "resource_uri": "/json/pokemon/99.json/"
+          "resource_uri": "json/pokemon/99.json"
         },
         {
           "name": "voltorb",
-          "resource_uri": "/json/pokemon/100.json/"
+          "resource_uri": "json/pokemon/100.json"
         },
         {
           "name": "electrode",
-          "resource_uri": "/json/pokemon/101.json/"
+          "resource_uri": "json/pokemon/101.json"
         },
         {
           "name": "exeggcute",
-          "resource_uri": "/json/pokemon/102.json/"
+          "resource_uri": "json/pokemon/102.json"
         },
         {
           "name": "exeggutor",
-          "resource_uri": "/json/pokemon/103.json/"
+          "resource_uri": "json/pokemon/103.json"
         },
         {
           "name": "hitmonlee",
-          "resource_uri": "/json/pokemon/106.json/"
+          "resource_uri": "json/pokemon/106.json"
         },
         {
           "name": "cubone",
-          "resource_uri": "/json/pokemon/104.json/"
+          "resource_uri": "json/pokemon/104.json"
         },
         {
           "name": "lickitung",
-          "resource_uri": "/json/pokemon/108.json/"
+          "resource_uri": "json/pokemon/108.json"
         },
         {
           "name": "hitmonchan",
-          "resource_uri": "/json/pokemon/107.json/"
+          "resource_uri": "json/pokemon/107.json"
         },
         {
           "name": "koffing",
-          "resource_uri": "/json/pokemon/109.json/"
+          "resource_uri": "json/pokemon/109.json"
         },
         {
           "name": "weezing",
-          "resource_uri": "/json/pokemon/110.json/"
+          "resource_uri": "json/pokemon/110.json"
         },
         {
           "name": "rhyhorn",
-          "resource_uri": "/json/pokemon/111.json/"
+          "resource_uri": "json/pokemon/111.json"
         },
         {
           "name": "rhydon",
-          "resource_uri": "/json/pokemon/112.json/"
+          "resource_uri": "json/pokemon/112.json"
         },
         {
           "name": "chansey",
-          "resource_uri": "/json/pokemon/113.json/"
+          "resource_uri": "json/pokemon/113.json"
         },
         {
           "name": "kangaskhan",
-          "resource_uri": "/json/pokemon/115.json/"
+          "resource_uri": "json/pokemon/115.json"
         },
         {
           "name": "horsea",
-          "resource_uri": "/json/pokemon/116.json/"
+          "resource_uri": "json/pokemon/116.json"
         },
         {
           "name": "tangela",
-          "resource_uri": "/json/pokemon/114.json/"
+          "resource_uri": "json/pokemon/114.json"
         },
         {
           "name": "seadra",
-          "resource_uri": "/json/pokemon/117.json/"
+          "resource_uri": "json/pokemon/117.json"
         },
         {
           "name": "goldeen",
-          "resource_uri": "/json/pokemon/118.json/"
+          "resource_uri": "json/pokemon/118.json"
         },
         {
           "name": "staryu",
-          "resource_uri": "/json/pokemon/120.json/"
+          "resource_uri": "json/pokemon/120.json"
         },
         {
           "name": "mr-mime",
-          "resource_uri": "/json/pokemon/122.json/"
+          "resource_uri": "json/pokemon/122.json"
         },
         {
           "name": "starmie",
-          "resource_uri": "/json/pokemon/121.json/"
+          "resource_uri": "json/pokemon/121.json"
         },
         {
           "name": "scyther",
-          "resource_uri": "/json/pokemon/123.json/"
+          "resource_uri": "json/pokemon/123.json"
         },
         {
           "name": "pinsir",
-          "resource_uri": "/json/pokemon/127.json/"
+          "resource_uri": "json/pokemon/127.json"
         },
         {
           "name": "jynx",
-          "resource_uri": "/json/pokemon/124.json/"
+          "resource_uri": "json/pokemon/124.json"
         },
         {
           "name": "electabuzz",
-          "resource_uri": "/json/pokemon/125.json/"
+          "resource_uri": "json/pokemon/125.json"
         },
         {
           "name": "magmar",
-          "resource_uri": "/json/pokemon/126.json/"
+          "resource_uri": "json/pokemon/126.json"
         },
         {
           "name": "tauros",
-          "resource_uri": "/json/pokemon/128.json/"
+          "resource_uri": "json/pokemon/128.json"
         },
         {
           "name": "gyarados",
-          "resource_uri": "/json/pokemon/130.json/"
+          "resource_uri": "json/pokemon/130.json"
         },
         {
           "name": "lapras",
-          "resource_uri": "/json/pokemon/131.json/"
+          "resource_uri": "json/pokemon/131.json"
         },
         {
           "name": "ditto",
-          "resource_uri": "/json/pokemon/132.json/"
+          "resource_uri": "json/pokemon/132.json"
         },
         {
           "name": "eevee",
-          "resource_uri": "/json/pokemon/133.json/"
+          "resource_uri": "json/pokemon/133.json"
         },
         {
           "name": "jolteon",
-          "resource_uri": "/json/pokemon/135.json/"
+          "resource_uri": "json/pokemon/135.json"
         },
         {
           "name": "vaporeon",
-          "resource_uri": "/json/pokemon/134.json/"
+          "resource_uri": "json/pokemon/134.json"
         },
         {
           "name": "flareon",
-          "resource_uri": "/json/pokemon/136.json/"
+          "resource_uri": "json/pokemon/136.json"
         },
         {
           "name": "porygon",
-          "resource_uri": "/json/pokemon/137.json/"
+          "resource_uri": "json/pokemon/137.json"
         },
         {
           "name": "omanyte",
-          "resource_uri": "/json/pokemon/138.json/"
+          "resource_uri": "json/pokemon/138.json"
         },
         {
           "name": "snorlax",
-          "resource_uri": "/json/pokemon/143.json/"
+          "resource_uri": "json/pokemon/143.json"
         },
         {
           "name": "articuno",
-          "resource_uri": "/json/pokemon/144.json/"
+          "resource_uri": "json/pokemon/144.json"
         },
         {
           "name": "mewtwo",
-          "resource_uri": "/json/pokemon/150.json/"
+          "resource_uri": "json/pokemon/150.json"
         },
         {
           "name": "moltres",
-          "resource_uri": "/json/pokemon/146.json/"
+          "resource_uri": "json/pokemon/146.json"
         },
         {
           "name": "totodile",
-          "resource_uri": "/json/pokemon/158.json/"
+          "resource_uri": "json/pokemon/158.json"
         },
         {
           "name": "dratini",
-          "resource_uri": "/json/pokemon/147.json/"
+          "resource_uri": "json/pokemon/147.json"
         },
         {
           "name": "dragonair",
-          "resource_uri": "/json/pokemon/148.json/"
+          "resource_uri": "json/pokemon/148.json"
         },
         {
           "name": "bayleef",
-          "resource_uri": "/json/pokemon/153.json/"
+          "resource_uri": "json/pokemon/153.json"
         },
         {
           "name": "mew",
-          "resource_uri": "/json/pokemon/151.json/"
+          "resource_uri": "json/pokemon/151.json"
         },
         {
           "name": "chikorita",
-          "resource_uri": "/json/pokemon/152.json/"
+          "resource_uri": "json/pokemon/152.json"
         },
         {
           "name": "meganium",
-          "resource_uri": "/json/pokemon/154.json/"
+          "resource_uri": "json/pokemon/154.json"
         },
         {
           "name": "igglybuff",
-          "resource_uri": "/json/pokemon/174.json/"
+          "resource_uri": "json/pokemon/174.json"
         },
         {
           "name": "cyndaquil",
-          "resource_uri": "/json/pokemon/155.json/"
+          "resource_uri": "json/pokemon/155.json"
         },
         {
           "name": "quilava",
-          "resource_uri": "/json/pokemon/156.json/"
+          "resource_uri": "json/pokemon/156.json"
         },
         {
           "name": "typhlosion",
-          "resource_uri": "/json/pokemon/157.json/"
+          "resource_uri": "json/pokemon/157.json"
         },
         {
           "name": "croconaw",
-          "resource_uri": "/json/pokemon/159.json/"
+          "resource_uri": "json/pokemon/159.json"
         },
         {
           "name": "feraligatr",
-          "resource_uri": "/json/pokemon/160.json/"
+          "resource_uri": "json/pokemon/160.json"
         },
         {
           "name": "noctowl",
-          "resource_uri": "/json/pokemon/164.json/"
+          "resource_uri": "json/pokemon/164.json"
         },
         {
           "name": "sentret",
-          "resource_uri": "/json/pokemon/161.json/"
+          "resource_uri": "json/pokemon/161.json"
         },
         {
           "name": "furret",
-          "resource_uri": "/json/pokemon/162.json/"
+          "resource_uri": "json/pokemon/162.json"
         },
         {
           "name": "hoothoot",
-          "resource_uri": "/json/pokemon/163.json/"
+          "resource_uri": "json/pokemon/163.json"
         },
         {
           "name": "ledyba",
-          "resource_uri": "/json/pokemon/165.json/"
+          "resource_uri": "json/pokemon/165.json"
         },
         {
           "name": "ledian",
-          "resource_uri": "/json/pokemon/166.json/"
+          "resource_uri": "json/pokemon/166.json"
         },
         {
           "name": "ariados",
-          "resource_uri": "/json/pokemon/168.json/"
+          "resource_uri": "json/pokemon/168.json"
         },
         {
           "name": "crobat",
-          "resource_uri": "/json/pokemon/169.json/"
+          "resource_uri": "json/pokemon/169.json"
         },
         {
           "name": "chinchou",
-          "resource_uri": "/json/pokemon/170.json/"
+          "resource_uri": "json/pokemon/170.json"
         },
         {
           "name": "lanturn",
-          "resource_uri": "/json/pokemon/171.json/"
+          "resource_uri": "json/pokemon/171.json"
         },
         {
           "name": "pichu",
-          "resource_uri": "/json/pokemon/172.json/"
+          "resource_uri": "json/pokemon/172.json"
         },
         {
           "name": "cleffa",
-          "resource_uri": "/json/pokemon/173.json/"
+          "resource_uri": "json/pokemon/173.json"
         },
         {
           "name": "togepi",
-          "resource_uri": "/json/pokemon/175.json/"
+          "resource_uri": "json/pokemon/175.json"
         },
         {
           "name": "togetic",
-          "resource_uri": "/json/pokemon/176.json/"
+          "resource_uri": "json/pokemon/176.json"
         },
         {
           "name": "natu",
-          "resource_uri": "/json/pokemon/177.json/"
+          "resource_uri": "json/pokemon/177.json"
         },
         {
           "name": "xatu",
-          "resource_uri": "/json/pokemon/178.json/"
+          "resource_uri": "json/pokemon/178.json"
         },
         {
           "name": "mareep",
-          "resource_uri": "/json/pokemon/179.json/"
+          "resource_uri": "json/pokemon/179.json"
         },
         {
           "name": "bellossom",
-          "resource_uri": "/json/pokemon/182.json/"
+          "resource_uri": "json/pokemon/182.json"
         },
         {
           "name": "ampharos",
-          "resource_uri": "/json/pokemon/181.json/"
+          "resource_uri": "json/pokemon/181.json"
         },
         {
           "name": "marill",
-          "resource_uri": "/json/pokemon/183.json/"
+          "resource_uri": "json/pokemon/183.json"
         },
         {
           "name": "hoppip",
-          "resource_uri": "/json/pokemon/187.json/"
+          "resource_uri": "json/pokemon/187.json"
         },
         {
           "name": "sudowoodo",
-          "resource_uri": "/json/pokemon/185.json/"
+          "resource_uri": "json/pokemon/185.json"
         },
         {
           "name": "azumarill",
-          "resource_uri": "/json/pokemon/184.json/"
+          "resource_uri": "json/pokemon/184.json"
         },
         {
           "name": "politoed",
-          "resource_uri": "/json/pokemon/186.json/"
+          "resource_uri": "json/pokemon/186.json"
         },
         {
           "name": "skiploom",
-          "resource_uri": "/json/pokemon/188.json/"
+          "resource_uri": "json/pokemon/188.json"
         },
         {
           "name": "jumpluff",
-          "resource_uri": "/json/pokemon/189.json/"
+          "resource_uri": "json/pokemon/189.json"
         },
         {
           "name": "sunflora",
-          "resource_uri": "/json/pokemon/192.json/"
+          "resource_uri": "json/pokemon/192.json"
         },
         {
           "name": "yanma",
-          "resource_uri": "/json/pokemon/193.json/"
+          "resource_uri": "json/pokemon/193.json"
         },
         {
           "name": "aipom",
-          "resource_uri": "/json/pokemon/190.json/"
+          "resource_uri": "json/pokemon/190.json"
         },
         {
           "name": "sunkern",
-          "resource_uri": "/json/pokemon/191.json/"
+          "resource_uri": "json/pokemon/191.json"
         },
         {
           "name": "wooper",
-          "resource_uri": "/json/pokemon/194.json/"
+          "resource_uri": "json/pokemon/194.json"
         },
         {
           "name": "quagsire",
-          "resource_uri": "/json/pokemon/195.json/"
+          "resource_uri": "json/pokemon/195.json"
         },
         {
           "name": "murkrow",
-          "resource_uri": "/json/pokemon/198.json/"
+          "resource_uri": "json/pokemon/198.json"
         },
         {
           "name": "espeon",
-          "resource_uri": "/json/pokemon/196.json/"
+          "resource_uri": "json/pokemon/196.json"
         },
         {
           "name": "misdreavus",
-          "resource_uri": "/json/pokemon/200.json/"
+          "resource_uri": "json/pokemon/200.json"
         },
         {
           "name": "umbreon",
-          "resource_uri": "/json/pokemon/197.json/"
+          "resource_uri": "json/pokemon/197.json"
         },
         {
           "name": "unown",
-          "resource_uri": "/json/pokemon/201.json/"
+          "resource_uri": "json/pokemon/201.json"
         },
         {
           "name": "wobbuffet",
-          "resource_uri": "/json/pokemon/202.json/"
+          "resource_uri": "json/pokemon/202.json"
         },
         {
           "name": "girafarig",
-          "resource_uri": "/json/pokemon/203.json/"
+          "resource_uri": "json/pokemon/203.json"
         },
         {
           "name": "pineco",
-          "resource_uri": "/json/pokemon/204.json/"
+          "resource_uri": "json/pokemon/204.json"
         },
         {
           "name": "forretress",
-          "resource_uri": "/json/pokemon/205.json/"
+          "resource_uri": "json/pokemon/205.json"
         },
         {
           "name": "dunsparce",
-          "resource_uri": "/json/pokemon/206.json/"
+          "resource_uri": "json/pokemon/206.json"
         },
         {
           "name": "gligar",
-          "resource_uri": "/json/pokemon/207.json/"
+          "resource_uri": "json/pokemon/207.json"
         },
         {
           "name": "kabuto",
-          "resource_uri": "/json/pokemon/140.json/"
+          "resource_uri": "json/pokemon/140.json"
         },
         {
           "name": "aerodactyl",
-          "resource_uri": "/json/pokemon/142.json/"
+          "resource_uri": "json/pokemon/142.json"
         },
         {
           "name": "zapdos",
-          "resource_uri": "/json/pokemon/145.json/"
+          "resource_uri": "json/pokemon/145.json"
         },
         {
           "name": "shuckle",
-          "resource_uri": "/json/pokemon/213.json/"
+          "resource_uri": "json/pokemon/213.json"
         },
         {
           "name": "magcargo",
-          "resource_uri": "/json/pokemon/219.json/"
+          "resource_uri": "json/pokemon/219.json"
         },
         {
           "name": "heracross",
-          "resource_uri": "/json/pokemon/214.json/"
+          "resource_uri": "json/pokemon/214.json"
         },
         {
           "name": "sneasel",
-          "resource_uri": "/json/pokemon/215.json/"
+          "resource_uri": "json/pokemon/215.json"
         },
         {
           "name": "ursaring",
-          "resource_uri": "/json/pokemon/217.json/"
+          "resource_uri": "json/pokemon/217.json"
         },
         {
           "name": "slugma",
-          "resource_uri": "/json/pokemon/218.json/"
+          "resource_uri": "json/pokemon/218.json"
         },
         {
           "name": "swinub",
-          "resource_uri": "/json/pokemon/220.json/"
+          "resource_uri": "json/pokemon/220.json"
         },
         {
           "name": "delibird",
-          "resource_uri": "/json/pokemon/225.json/"
+          "resource_uri": "json/pokemon/225.json"
         },
         {
           "name": "piloswine",
-          "resource_uri": "/json/pokemon/221.json/"
+          "resource_uri": "json/pokemon/221.json"
         },
         {
           "name": "corsola",
-          "resource_uri": "/json/pokemon/222.json/"
+          "resource_uri": "json/pokemon/222.json"
         },
         {
           "name": "remoraid",
-          "resource_uri": "/json/pokemon/223.json/"
+          "resource_uri": "json/pokemon/223.json"
         },
         {
           "name": "houndour",
-          "resource_uri": "/json/pokemon/228.json/"
+          "resource_uri": "json/pokemon/228.json"
         },
         {
           "name": "octillery",
-          "resource_uri": "/json/pokemon/224.json/"
+          "resource_uri": "json/pokemon/224.json"
         },
         {
           "name": "mantine",
-          "resource_uri": "/json/pokemon/226.json/"
+          "resource_uri": "json/pokemon/226.json"
         },
         {
           "name": "porygon2",
-          "resource_uri": "/json/pokemon/233.json/"
+          "resource_uri": "json/pokemon/233.json"
         },
         {
           "name": "skarmory",
-          "resource_uri": "/json/pokemon/227.json/"
+          "resource_uri": "json/pokemon/227.json"
         },
         {
           "name": "houndoom",
-          "resource_uri": "/json/pokemon/229.json/"
+          "resource_uri": "json/pokemon/229.json"
         },
         {
           "name": "kingdra",
-          "resource_uri": "/json/pokemon/230.json/"
+          "resource_uri": "json/pokemon/230.json"
         },
         {
           "name": "phanpy",
-          "resource_uri": "/json/pokemon/231.json/"
+          "resource_uri": "json/pokemon/231.json"
         },
         {
           "name": "stantler",
-          "resource_uri": "/json/pokemon/234.json/"
+          "resource_uri": "json/pokemon/234.json"
         },
         {
           "name": "donphan",
-          "resource_uri": "/json/pokemon/232.json/"
+          "resource_uri": "json/pokemon/232.json"
         },
         {
           "name": "smoochum",
-          "resource_uri": "/json/pokemon/238.json/"
+          "resource_uri": "json/pokemon/238.json"
         },
         {
           "name": "smeargle",
-          "resource_uri": "/json/pokemon/235.json/"
+          "resource_uri": "json/pokemon/235.json"
         },
         {
           "name": "tyrogue",
-          "resource_uri": "/json/pokemon/236.json/"
+          "resource_uri": "json/pokemon/236.json"
         },
         {
           "name": "elekid",
-          "resource_uri": "/json/pokemon/239.json/"
+          "resource_uri": "json/pokemon/239.json"
         },
         {
           "name": "magby",
-          "resource_uri": "/json/pokemon/240.json/"
+          "resource_uri": "json/pokemon/240.json"
         },
         {
           "name": "miltank",
-          "resource_uri": "/json/pokemon/241.json/"
+          "resource_uri": "json/pokemon/241.json"
         },
         {
           "name": "blissey",
-          "resource_uri": "/json/pokemon/242.json/"
+          "resource_uri": "json/pokemon/242.json"
         },
         {
           "name": "raikou",
-          "resource_uri": "/json/pokemon/243.json/"
+          "resource_uri": "json/pokemon/243.json"
         },
         {
           "name": "suicune",
-          "resource_uri": "/json/pokemon/245.json/"
+          "resource_uri": "json/pokemon/245.json"
         },
         {
           "name": "entei",
-          "resource_uri": "/json/pokemon/244.json/"
+          "resource_uri": "json/pokemon/244.json"
         },
         {
           "name": "larvitar",
-          "resource_uri": "/json/pokemon/246.json/"
+          "resource_uri": "json/pokemon/246.json"
         },
         {
           "name": "pupitar",
-          "resource_uri": "/json/pokemon/247.json/"
+          "resource_uri": "json/pokemon/247.json"
         },
         {
           "name": "swampert",
-          "resource_uri": "/json/pokemon/260.json/"
+          "resource_uri": "json/pokemon/260.json"
         },
         {
           "name": "lugia",
-          "resource_uri": "/json/pokemon/249.json/"
+          "resource_uri": "json/pokemon/249.json"
         },
         {
           "name": "sceptile",
-          "resource_uri": "/json/pokemon/254.json/"
+          "resource_uri": "json/pokemon/254.json"
         },
         {
           "name": "ho-oh",
-          "resource_uri": "/json/pokemon/250.json/"
+          "resource_uri": "json/pokemon/250.json"
         },
         {
           "name": "celebi",
-          "resource_uri": "/json/pokemon/251.json/"
+          "resource_uri": "json/pokemon/251.json"
         },
         {
           "name": "treecko",
-          "resource_uri": "/json/pokemon/252.json/"
+          "resource_uri": "json/pokemon/252.json"
         },
         {
           "name": "grovyle",
-          "resource_uri": "/json/pokemon/253.json/"
+          "resource_uri": "json/pokemon/253.json"
         },
         {
           "name": "torchic",
-          "resource_uri": "/json/pokemon/255.json/"
+          "resource_uri": "json/pokemon/255.json"
         },
         {
           "name": "wurmple",
-          "resource_uri": "/json/pokemon/265.json/"
+          "resource_uri": "json/pokemon/265.json"
         },
         {
           "name": "combusken",
-          "resource_uri": "/json/pokemon/256.json/"
+          "resource_uri": "json/pokemon/256.json"
         },
         {
           "name": "blaziken",
-          "resource_uri": "/json/pokemon/257.json/"
+          "resource_uri": "json/pokemon/257.json"
         },
         {
           "name": "mudkip",
-          "resource_uri": "/json/pokemon/258.json/"
+          "resource_uri": "json/pokemon/258.json"
         },
         {
           "name": "marshtomp",
-          "resource_uri": "/json/pokemon/259.json/"
+          "resource_uri": "json/pokemon/259.json"
         },
         {
           "name": "poochyena",
-          "resource_uri": "/json/pokemon/261.json/"
+          "resource_uri": "json/pokemon/261.json"
         },
         {
           "name": "linoone",
-          "resource_uri": "/json/pokemon/264.json/"
+          "resource_uri": "json/pokemon/264.json"
         },
         {
           "name": "silcoon",
-          "resource_uri": "/json/pokemon/266.json/"
+          "resource_uri": "json/pokemon/266.json"
         },
         {
           "name": "mightyena",
-          "resource_uri": "/json/pokemon/262.json/"
+          "resource_uri": "json/pokemon/262.json"
         },
         {
           "name": "beautifly",
-          "resource_uri": "/json/pokemon/267.json/"
+          "resource_uri": "json/pokemon/267.json"
         },
         {
           "name": "cascoon",
-          "resource_uri": "/json/pokemon/268.json/"
+          "resource_uri": "json/pokemon/268.json"
         },
         {
           "name": "dustox",
-          "resource_uri": "/json/pokemon/269.json/"
+          "resource_uri": "json/pokemon/269.json"
         },
         {
           "name": "lotad",
-          "resource_uri": "/json/pokemon/270.json/"
+          "resource_uri": "json/pokemon/270.json"
         },
         {
           "name": "ludicolo",
-          "resource_uri": "/json/pokemon/272.json/"
+          "resource_uri": "json/pokemon/272.json"
         },
         {
           "name": "lombre",
-          "resource_uri": "/json/pokemon/271.json/"
+          "resource_uri": "json/pokemon/271.json"
         },
         {
           "name": "seedot",
-          "resource_uri": "/json/pokemon/273.json/"
+          "resource_uri": "json/pokemon/273.json"
         },
         {
           "name": "shiftry",
-          "resource_uri": "/json/pokemon/275.json/"
+          "resource_uri": "json/pokemon/275.json"
         },
         {
           "name": "nuzleaf",
-          "resource_uri": "/json/pokemon/274.json/"
+          "resource_uri": "json/pokemon/274.json"
         },
         {
           "name": "granbull",
-          "resource_uri": "/json/pokemon/210.json/"
+          "resource_uri": "json/pokemon/210.json"
         },
         {
           "name": "taillow",
-          "resource_uri": "/json/pokemon/276.json/"
+          "resource_uri": "json/pokemon/276.json"
         },
         {
           "name": "qwilfish",
-          "resource_uri": "/json/pokemon/211.json/"
+          "resource_uri": "json/pokemon/211.json"
         },
         {
           "name": "scizor",
-          "resource_uri": "/json/pokemon/212.json/"
+          "resource_uri": "json/pokemon/212.json"
         },
         {
           "name": "surskit",
-          "resource_uri": "/json/pokemon/283.json/"
+          "resource_uri": "json/pokemon/283.json"
         },
         {
           "name": "ralts",
-          "resource_uri": "/json/pokemon/280.json/"
+          "resource_uri": "json/pokemon/280.json"
         },
         {
           "name": "kirlia",
-          "resource_uri": "/json/pokemon/281.json/"
+          "resource_uri": "json/pokemon/281.json"
         },
         {
           "name": "masquerain",
-          "resource_uri": "/json/pokemon/284.json/"
+          "resource_uri": "json/pokemon/284.json"
         },
         {
           "name": "nincada",
-          "resource_uri": "/json/pokemon/290.json/"
+          "resource_uri": "json/pokemon/290.json"
         },
         {
           "name": "slaking",
-          "resource_uri": "/json/pokemon/289.json/"
+          "resource_uri": "json/pokemon/289.json"
         },
         {
           "name": "shroomish",
-          "resource_uri": "/json/pokemon/285.json/"
+          "resource_uri": "json/pokemon/285.json"
         },
         {
           "name": "breloom",
-          "resource_uri": "/json/pokemon/286.json/"
+          "resource_uri": "json/pokemon/286.json"
         },
         {
           "name": "vigoroth",
-          "resource_uri": "/json/pokemon/288.json/"
+          "resource_uri": "json/pokemon/288.json"
         },
         {
           "name": "ninjask",
-          "resource_uri": "/json/pokemon/291.json/"
+          "resource_uri": "json/pokemon/291.json"
         },
         {
           "name": "exploud",
-          "resource_uri": "/json/pokemon/295.json/"
+          "resource_uri": "json/pokemon/295.json"
         },
         {
           "name": "whismur",
-          "resource_uri": "/json/pokemon/293.json/"
+          "resource_uri": "json/pokemon/293.json"
         },
         {
           "name": "delcatty",
-          "resource_uri": "/json/pokemon/301.json/"
+          "resource_uri": "json/pokemon/301.json"
         },
         {
           "name": "loudred",
-          "resource_uri": "/json/pokemon/294.json/"
+          "resource_uri": "json/pokemon/294.json"
         },
         {
           "name": "nosepass",
-          "resource_uri": "/json/pokemon/299.json/"
+          "resource_uri": "json/pokemon/299.json"
         },
         {
           "name": "makuhita",
-          "resource_uri": "/json/pokemon/296.json/"
+          "resource_uri": "json/pokemon/296.json"
         },
         {
           "name": "hariyama",
-          "resource_uri": "/json/pokemon/297.json/"
+          "resource_uri": "json/pokemon/297.json"
         },
         {
           "name": "azurill",
-          "resource_uri": "/json/pokemon/298.json/"
+          "resource_uri": "json/pokemon/298.json"
         },
         {
           "name": "skitty",
-          "resource_uri": "/json/pokemon/300.json/"
+          "resource_uri": "json/pokemon/300.json"
         },
         {
           "name": "sableye",
-          "resource_uri": "/json/pokemon/302.json/"
+          "resource_uri": "json/pokemon/302.json"
         },
         {
           "name": "aron",
-          "resource_uri": "/json/pokemon/304.json/"
+          "resource_uri": "json/pokemon/304.json"
         },
         {
           "name": "mawile",
-          "resource_uri": "/json/pokemon/303.json/"
+          "resource_uri": "json/pokemon/303.json"
         },
         {
           "name": "plusle",
-          "resource_uri": "/json/pokemon/311.json/"
+          "resource_uri": "json/pokemon/311.json"
         },
         {
           "name": "aggron",
-          "resource_uri": "/json/pokemon/306.json/"
+          "resource_uri": "json/pokemon/306.json"
         },
         {
           "name": "lairon",
-          "resource_uri": "/json/pokemon/305.json/"
+          "resource_uri": "json/pokemon/305.json"
         },
         {
           "name": "medicham",
-          "resource_uri": "/json/pokemon/308.json/"
+          "resource_uri": "json/pokemon/308.json"
         },
         {
           "name": "electrike",
-          "resource_uri": "/json/pokemon/309.json/"
+          "resource_uri": "json/pokemon/309.json"
         },
         {
           "name": "manectric",
-          "resource_uri": "/json/pokemon/310.json/"
+          "resource_uri": "json/pokemon/310.json"
         },
         {
           "name": "volbeat",
-          "resource_uri": "/json/pokemon/313.json/"
+          "resource_uri": "json/pokemon/313.json"
         },
         {
           "name": "minun",
-          "resource_uri": "/json/pokemon/312.json/"
+          "resource_uri": "json/pokemon/312.json"
         },
         {
           "name": "illumise",
-          "resource_uri": "/json/pokemon/314.json/"
+          "resource_uri": "json/pokemon/314.json"
         },
         {
           "name": "roselia",
-          "resource_uri": "/json/pokemon/315.json/"
+          "resource_uri": "json/pokemon/315.json"
         },
         {
           "name": "gulpin",
-          "resource_uri": "/json/pokemon/316.json/"
+          "resource_uri": "json/pokemon/316.json"
         },
         {
           "name": "sharpedo",
-          "resource_uri": "/json/pokemon/319.json/"
+          "resource_uri": "json/pokemon/319.json"
         },
         {
           "name": "swalot",
-          "resource_uri": "/json/pokemon/317.json/"
+          "resource_uri": "json/pokemon/317.json"
         },
         {
           "name": "carvanha",
-          "resource_uri": "/json/pokemon/318.json/"
+          "resource_uri": "json/pokemon/318.json"
         },
         {
           "name": "wailmer",
-          "resource_uri": "/json/pokemon/320.json/"
+          "resource_uri": "json/pokemon/320.json"
         },
         {
           "name": "camerupt",
-          "resource_uri": "/json/pokemon/323.json/"
+          "resource_uri": "json/pokemon/323.json"
         },
         {
           "name": "numel",
-          "resource_uri": "/json/pokemon/322.json/"
+          "resource_uri": "json/pokemon/322.json"
         },
         {
           "name": "grumpig",
-          "resource_uri": "/json/pokemon/326.json/"
+          "resource_uri": "json/pokemon/326.json"
         },
         {
           "name": "torkoal",
-          "resource_uri": "/json/pokemon/324.json/"
+          "resource_uri": "json/pokemon/324.json"
         },
         {
           "name": "spoink",
-          "resource_uri": "/json/pokemon/325.json/"
+          "resource_uri": "json/pokemon/325.json"
         },
         {
           "name": "spinda",
-          "resource_uri": "/json/pokemon/327.json/"
+          "resource_uri": "json/pokemon/327.json"
         },
         {
           "name": "trapinch",
-          "resource_uri": "/json/pokemon/328.json/"
+          "resource_uri": "json/pokemon/328.json"
         },
         {
           "name": "vibrava",
-          "resource_uri": "/json/pokemon/329.json/"
+          "resource_uri": "json/pokemon/329.json"
         },
         {
           "name": "flygon",
-          "resource_uri": "/json/pokemon/330.json/"
+          "resource_uri": "json/pokemon/330.json"
         },
         {
           "name": "swablu",
-          "resource_uri": "/json/pokemon/333.json/"
+          "resource_uri": "json/pokemon/333.json"
         },
         {
           "name": "cacnea",
-          "resource_uri": "/json/pokemon/331.json/"
+          "resource_uri": "json/pokemon/331.json"
         },
         {
           "name": "cacturne",
-          "resource_uri": "/json/pokemon/332.json/"
+          "resource_uri": "json/pokemon/332.json"
         },
         {
           "name": "altaria",
-          "resource_uri": "/json/pokemon/334.json/"
+          "resource_uri": "json/pokemon/334.json"
         },
         {
           "name": "solrock",
-          "resource_uri": "/json/pokemon/338.json/"
+          "resource_uri": "json/pokemon/338.json"
         },
         {
           "name": "whiscash",
-          "resource_uri": "/json/pokemon/340.json/"
+          "resource_uri": "json/pokemon/340.json"
         },
         {
           "name": "lunatone",
-          "resource_uri": "/json/pokemon/337.json/"
+          "resource_uri": "json/pokemon/337.json"
         },
         {
           "name": "seviper",
-          "resource_uri": "/json/pokemon/336.json/"
+          "resource_uri": "json/pokemon/336.json"
         },
         {
           "name": "barboach",
-          "resource_uri": "/json/pokemon/339.json/"
+          "resource_uri": "json/pokemon/339.json"
         },
         {
           "name": "corphish",
-          "resource_uri": "/json/pokemon/341.json/"
+          "resource_uri": "json/pokemon/341.json"
         },
         {
           "name": "crawdaunt",
-          "resource_uri": "/json/pokemon/342.json/"
+          "resource_uri": "json/pokemon/342.json"
         },
         {
           "name": "baltoy",
-          "resource_uri": "/json/pokemon/343.json/"
+          "resource_uri": "json/pokemon/343.json"
         },
         {
           "name": "claydol",
-          "resource_uri": "/json/pokemon/344.json/"
+          "resource_uri": "json/pokemon/344.json"
         },
         {
           "name": "lileep",
-          "resource_uri": "/json/pokemon/345.json/"
+          "resource_uri": "json/pokemon/345.json"
         },
         {
           "name": "pelipper",
-          "resource_uri": "/json/pokemon/279.json/"
+          "resource_uri": "json/pokemon/279.json"
         },
         {
           "name": "wingull",
-          "resource_uri": "/json/pokemon/278.json/"
+          "resource_uri": "json/pokemon/278.json"
         },
         {
           "name": "slakoth",
-          "resource_uri": "/json/pokemon/287.json/"
+          "resource_uri": "json/pokemon/287.json"
         },
         {
           "name": "banette",
-          "resource_uri": "/json/pokemon/354.json/"
+          "resource_uri": "json/pokemon/354.json"
         },
         {
           "name": "milotic",
-          "resource_uri": "/json/pokemon/350.json/"
+          "resource_uri": "json/pokemon/350.json"
         },
         {
           "name": "duskull",
-          "resource_uri": "/json/pokemon/355.json/"
+          "resource_uri": "json/pokemon/355.json"
         },
         {
           "name": "kecleon",
-          "resource_uri": "/json/pokemon/352.json/"
+          "resource_uri": "json/pokemon/352.json"
         },
         {
           "name": "shuppet",
-          "resource_uri": "/json/pokemon/353.json/"
+          "resource_uri": "json/pokemon/353.json"
         },
         {
           "name": "dusclops",
-          "resource_uri": "/json/pokemon/356.json/"
+          "resource_uri": "json/pokemon/356.json"
         },
         {
           "name": "chimecho",
-          "resource_uri": "/json/pokemon/358.json/"
+          "resource_uri": "json/pokemon/358.json"
         },
         {
           "name": "absol",
-          "resource_uri": "/json/pokemon/359.json/"
+          "resource_uri": "json/pokemon/359.json"
         },
         {
           "name": "wynaut",
-          "resource_uri": "/json/pokemon/360.json/"
+          "resource_uri": "json/pokemon/360.json"
         },
         {
           "name": "snorunt",
-          "resource_uri": "/json/pokemon/361.json/"
+          "resource_uri": "json/pokemon/361.json"
         },
         {
           "name": "glalie",
-          "resource_uri": "/json/pokemon/362.json/"
+          "resource_uri": "json/pokemon/362.json"
         },
         {
           "name": "spheal",
-          "resource_uri": "/json/pokemon/363.json/"
+          "resource_uri": "json/pokemon/363.json"
         },
         {
           "name": "sealeo",
-          "resource_uri": "/json/pokemon/364.json/"
+          "resource_uri": "json/pokemon/364.json"
         },
         {
           "name": "relicanth",
-          "resource_uri": "/json/pokemon/369.json/"
+          "resource_uri": "json/pokemon/369.json"
         },
         {
           "name": "gorebyss",
-          "resource_uri": "/json/pokemon/368.json/"
+          "resource_uri": "json/pokemon/368.json"
         },
         {
           "name": "walrein",
-          "resource_uri": "/json/pokemon/365.json/"
+          "resource_uri": "json/pokemon/365.json"
         },
         {
           "name": "clamperl",
-          "resource_uri": "/json/pokemon/366.json/"
+          "resource_uri": "json/pokemon/366.json"
         },
         {
           "name": "huntail",
-          "resource_uri": "/json/pokemon/367.json/"
+          "resource_uri": "json/pokemon/367.json"
         },
         {
           "name": "bagon",
-          "resource_uri": "/json/pokemon/371.json/"
+          "resource_uri": "json/pokemon/371.json"
         },
         {
           "name": "luvdisc",
-          "resource_uri": "/json/pokemon/370.json/"
+          "resource_uri": "json/pokemon/370.json"
         },
         {
           "name": "shelgon",
-          "resource_uri": "/json/pokemon/372.json/"
+          "resource_uri": "json/pokemon/372.json"
         },
         {
           "name": "beldum",
-          "resource_uri": "/json/pokemon/374.json/"
+          "resource_uri": "json/pokemon/374.json"
         },
         {
           "name": "groudon",
-          "resource_uri": "/json/pokemon/383.json/"
+          "resource_uri": "json/pokemon/383.json"
         },
         {
           "name": "metang",
-          "resource_uri": "/json/pokemon/375.json/"
+          "resource_uri": "json/pokemon/375.json"
         },
         {
           "name": "registeel",
-          "resource_uri": "/json/pokemon/379.json/"
+          "resource_uri": "json/pokemon/379.json"
         },
         {
           "name": "metagross",
-          "resource_uri": "/json/pokemon/376.json/"
+          "resource_uri": "json/pokemon/376.json"
         },
         {
           "name": "regirock",
-          "resource_uri": "/json/pokemon/377.json/"
+          "resource_uri": "json/pokemon/377.json"
         },
         {
           "name": "regice",
-          "resource_uri": "/json/pokemon/378.json/"
+          "resource_uri": "json/pokemon/378.json"
         },
         {
           "name": "latias",
-          "resource_uri": "/json/pokemon/380.json/"
+          "resource_uri": "json/pokemon/380.json"
         },
         {
           "name": "latios",
-          "resource_uri": "/json/pokemon/381.json/"
+          "resource_uri": "json/pokemon/381.json"
         },
         {
           "name": "kyogre",
-          "resource_uri": "/json/pokemon/382.json/"
+          "resource_uri": "json/pokemon/382.json"
         },
         {
           "name": "rayquaza",
-          "resource_uri": "/json/pokemon/384.json/"
+          "resource_uri": "json/pokemon/384.json"
         },
         {
           "name": "jirachi",
-          "resource_uri": "/json/pokemon/385.json/"
+          "resource_uri": "json/pokemon/385.json"
         },
         {
           "name": "turtwig",
-          "resource_uri": "/json/pokemon/387.json/"
+          "resource_uri": "json/pokemon/387.json"
         },
         {
           "name": "torterra",
-          "resource_uri": "/json/pokemon/389.json/"
+          "resource_uri": "json/pokemon/389.json"
         },
         {
           "name": "grotle",
-          "resource_uri": "/json/pokemon/388.json/"
+          "resource_uri": "json/pokemon/388.json"
         },
         {
           "name": "chimchar",
-          "resource_uri": "/json/pokemon/390.json/"
+          "resource_uri": "json/pokemon/390.json"
         },
         {
           "name": "staraptor",
-          "resource_uri": "/json/pokemon/398.json/"
+          "resource_uri": "json/pokemon/398.json"
         },
         {
           "name": "shinx",
-          "resource_uri": "/json/pokemon/403.json/"
+          "resource_uri": "json/pokemon/403.json"
         },
         {
           "name": "monferno",
-          "resource_uri": "/json/pokemon/391.json/"
+          "resource_uri": "json/pokemon/391.json"
         },
         {
           "name": "infernape",
-          "resource_uri": "/json/pokemon/392.json/"
+          "resource_uri": "json/pokemon/392.json"
         },
         {
           "name": "piplup",
-          "resource_uri": "/json/pokemon/393.json/"
+          "resource_uri": "json/pokemon/393.json"
         },
         {
           "name": "empoleon",
-          "resource_uri": "/json/pokemon/395.json/"
+          "resource_uri": "json/pokemon/395.json"
         },
         {
           "name": "prinplup",
-          "resource_uri": "/json/pokemon/394.json/"
+          "resource_uri": "json/pokemon/394.json"
         },
         {
           "name": "starly",
-          "resource_uri": "/json/pokemon/396.json/"
+          "resource_uri": "json/pokemon/396.json"
         },
         {
           "name": "staravia",
-          "resource_uri": "/json/pokemon/397.json/"
+          "resource_uri": "json/pokemon/397.json"
         },
         {
           "name": "kricketot",
-          "resource_uri": "/json/pokemon/401.json/"
+          "resource_uri": "json/pokemon/401.json"
         },
         {
           "name": "bidoof",
-          "resource_uri": "/json/pokemon/399.json/"
+          "resource_uri": "json/pokemon/399.json"
         },
         {
           "name": "kricketune",
-          "resource_uri": "/json/pokemon/402.json/"
+          "resource_uri": "json/pokemon/402.json"
         },
         {
           "name": "luxio",
-          "resource_uri": "/json/pokemon/404.json/"
+          "resource_uri": "json/pokemon/404.json"
         },
         {
           "name": "luxray",
-          "resource_uri": "/json/pokemon/405.json/"
+          "resource_uri": "json/pokemon/405.json"
         },
         {
           "name": "budew",
-          "resource_uri": "/json/pokemon/406.json/"
+          "resource_uri": "json/pokemon/406.json"
         },
         {
           "name": "roserade",
-          "resource_uri": "/json/pokemon/407.json/"
+          "resource_uri": "json/pokemon/407.json"
         },
         {
           "name": "cranidos",
-          "resource_uri": "/json/pokemon/408.json/"
+          "resource_uri": "json/pokemon/408.json"
         },
         {
           "name": "rampardos",
-          "resource_uri": "/json/pokemon/409.json/"
+          "resource_uri": "json/pokemon/409.json"
         },
         {
           "name": "shieldon",
-          "resource_uri": "/json/pokemon/410.json/"
+          "resource_uri": "json/pokemon/410.json"
         },
         {
           "name": "bastiodon",
-          "resource_uri": "/json/pokemon/411.json/"
+          "resource_uri": "json/pokemon/411.json"
         },
         {
           "name": "burmy",
-          "resource_uri": "/json/pokemon/412.json/"
+          "resource_uri": "json/pokemon/412.json"
         },
         {
           "name": "mothim",
-          "resource_uri": "/json/pokemon/414.json/"
+          "resource_uri": "json/pokemon/414.json"
         },
         {
           "name": "feebas",
-          "resource_uri": "/json/pokemon/349.json/"
+          "resource_uri": "json/pokemon/349.json"
         },
         {
           "name": "anorith",
-          "resource_uri": "/json/pokemon/347.json/"
+          "resource_uri": "json/pokemon/347.json"
         },
         {
           "name": "armaldo",
-          "resource_uri": "/json/pokemon/348.json/"
+          "resource_uri": "json/pokemon/348.json"
         },
         {
           "name": "castform",
-          "resource_uri": "/json/pokemon/351.json/"
+          "resource_uri": "json/pokemon/351.json"
         },
         {
           "name": "cherubi",
-          "resource_uri": "/json/pokemon/420.json/"
+          "resource_uri": "json/pokemon/420.json"
         },
         {
           "name": "mismagius",
-          "resource_uri": "/json/pokemon/429.json/"
+          "resource_uri": "json/pokemon/429.json"
         },
         {
           "name": "ambipom",
-          "resource_uri": "/json/pokemon/424.json/"
+          "resource_uri": "json/pokemon/424.json"
         },
         {
           "name": "cherrim",
-          "resource_uri": "/json/pokemon/421.json/"
+          "resource_uri": "json/pokemon/421.json"
         },
         {
           "name": "gastrodon",
-          "resource_uri": "/json/pokemon/423.json/"
+          "resource_uri": "json/pokemon/423.json"
         },
         {
           "name": "drifblim",
-          "resource_uri": "/json/pokemon/426.json/"
+          "resource_uri": "json/pokemon/426.json"
         },
         {
           "name": "drifloon",
-          "resource_uri": "/json/pokemon/425.json/"
+          "resource_uri": "json/pokemon/425.json"
         },
         {
           "name": "buneary",
-          "resource_uri": "/json/pokemon/427.json/"
+          "resource_uri": "json/pokemon/427.json"
         },
         {
           "name": "lopunny",
-          "resource_uri": "/json/pokemon/428.json/"
+          "resource_uri": "json/pokemon/428.json"
         },
         {
           "name": "chingling",
-          "resource_uri": "/json/pokemon/433.json/"
+          "resource_uri": "json/pokemon/433.json"
         },
         {
           "name": "honchkrow",
-          "resource_uri": "/json/pokemon/430.json/"
+          "resource_uri": "json/pokemon/430.json"
         },
         {
           "name": "glameow",
-          "resource_uri": "/json/pokemon/431.json/"
+          "resource_uri": "json/pokemon/431.json"
         },
         {
           "name": "purugly",
-          "resource_uri": "/json/pokemon/432.json/"
+          "resource_uri": "json/pokemon/432.json"
         },
         {
           "name": "stunky",
-          "resource_uri": "/json/pokemon/434.json/"
+          "resource_uri": "json/pokemon/434.json"
         },
         {
           "name": "skuntank",
-          "resource_uri": "/json/pokemon/435.json/"
+          "resource_uri": "json/pokemon/435.json"
         },
         {
           "name": "happiny",
-          "resource_uri": "/json/pokemon/440.json/"
+          "resource_uri": "json/pokemon/440.json"
         },
         {
           "name": "bronzor",
-          "resource_uri": "/json/pokemon/436.json/"
+          "resource_uri": "json/pokemon/436.json"
         },
         {
           "name": "bronzong",
-          "resource_uri": "/json/pokemon/437.json/"
+          "resource_uri": "json/pokemon/437.json"
         },
         {
           "name": "bonsly",
-          "resource_uri": "/json/pokemon/438.json/"
+          "resource_uri": "json/pokemon/438.json"
         },
         {
           "name": "mime-jr",
-          "resource_uri": "/json/pokemon/439.json/"
+          "resource_uri": "json/pokemon/439.json"
         },
         {
           "name": "spiritomb",
-          "resource_uri": "/json/pokemon/442.json/"
+          "resource_uri": "json/pokemon/442.json"
         },
         {
           "name": "gible",
-          "resource_uri": "/json/pokemon/443.json/"
+          "resource_uri": "json/pokemon/443.json"
         },
         {
           "name": "lucario",
-          "resource_uri": "/json/pokemon/448.json/"
+          "resource_uri": "json/pokemon/448.json"
         },
         {
           "name": "gabite",
-          "resource_uri": "/json/pokemon/444.json/"
+          "resource_uri": "json/pokemon/444.json"
         },
         {
           "name": "garchomp",
-          "resource_uri": "/json/pokemon/445.json/"
+          "resource_uri": "json/pokemon/445.json"
         },
         {
           "name": "drapion",
-          "resource_uri": "/json/pokemon/452.json/"
+          "resource_uri": "json/pokemon/452.json"
         },
         {
           "name": "hippopotas",
-          "resource_uri": "/json/pokemon/449.json/"
+          "resource_uri": "json/pokemon/449.json"
         },
         {
           "name": "munchlax",
-          "resource_uri": "/json/pokemon/446.json/"
+          "resource_uri": "json/pokemon/446.json"
         },
         {
           "name": "riolu",
-          "resource_uri": "/json/pokemon/447.json/"
+          "resource_uri": "json/pokemon/447.json"
         },
         {
           "name": "hippowdon",
-          "resource_uri": "/json/pokemon/450.json/"
+          "resource_uri": "json/pokemon/450.json"
         },
         {
           "name": "croagunk",
-          "resource_uri": "/json/pokemon/453.json/"
+          "resource_uri": "json/pokemon/453.json"
         },
         {
           "name": "toxicroak",
-          "resource_uri": "/json/pokemon/454.json/"
+          "resource_uri": "json/pokemon/454.json"
         },
         {
           "name": "carnivine",
-          "resource_uri": "/json/pokemon/455.json/"
+          "resource_uri": "json/pokemon/455.json"
         },
         {
           "name": "lumineon",
-          "resource_uri": "/json/pokemon/457.json/"
+          "resource_uri": "json/pokemon/457.json"
         },
         {
           "name": "finneon",
-          "resource_uri": "/json/pokemon/456.json/"
+          "resource_uri": "json/pokemon/456.json"
         },
         {
           "name": "mantyke",
-          "resource_uri": "/json/pokemon/458.json/"
+          "resource_uri": "json/pokemon/458.json"
         },
         {
           "name": "snover",
-          "resource_uri": "/json/pokemon/459.json/"
+          "resource_uri": "json/pokemon/459.json"
         },
         {
           "name": "abomasnow",
-          "resource_uri": "/json/pokemon/460.json/"
+          "resource_uri": "json/pokemon/460.json"
         },
         {
           "name": "electivire",
-          "resource_uri": "/json/pokemon/466.json/"
+          "resource_uri": "json/pokemon/466.json"
         },
         {
           "name": "weavile",
-          "resource_uri": "/json/pokemon/461.json/"
+          "resource_uri": "json/pokemon/461.json"
         },
         {
           "name": "lickilicky",
-          "resource_uri": "/json/pokemon/463.json/"
+          "resource_uri": "json/pokemon/463.json"
         },
         {
           "name": "rhyperior",
-          "resource_uri": "/json/pokemon/464.json/"
+          "resource_uri": "json/pokemon/464.json"
         },
         {
           "name": "magnezone",
-          "resource_uri": "/json/pokemon/462.json/"
+          "resource_uri": "json/pokemon/462.json"
         },
         {
           "name": "magmortar",
-          "resource_uri": "/json/pokemon/467.json/"
+          "resource_uri": "json/pokemon/467.json"
         },
         {
           "name": "togekiss",
-          "resource_uri": "/json/pokemon/468.json/"
+          "resource_uri": "json/pokemon/468.json"
         },
         {
           "name": "yanmega",
-          "resource_uri": "/json/pokemon/469.json/"
+          "resource_uri": "json/pokemon/469.json"
         },
         {
           "name": "leafeon",
-          "resource_uri": "/json/pokemon/470.json/"
+          "resource_uri": "json/pokemon/470.json"
         },
         {
           "name": "glaceon",
-          "resource_uri": "/json/pokemon/471.json/"
+          "resource_uri": "json/pokemon/471.json"
         },
         {
           "name": "gliscor",
-          "resource_uri": "/json/pokemon/472.json/"
+          "resource_uri": "json/pokemon/472.json"
         },
         {
           "name": "mamoswine",
-          "resource_uri": "/json/pokemon/473.json/"
+          "resource_uri": "json/pokemon/473.json"
         },
         {
           "name": "porygon-z",
-          "resource_uri": "/json/pokemon/474.json/"
+          "resource_uri": "json/pokemon/474.json"
         },
         {
           "name": "gallade",
-          "resource_uri": "/json/pokemon/475.json/"
+          "resource_uri": "json/pokemon/475.json"
         },
         {
           "name": "probopass",
-          "resource_uri": "/json/pokemon/476.json/"
+          "resource_uri": "json/pokemon/476.json"
         },
         {
           "name": "dusknoir",
-          "resource_uri": "/json/pokemon/477.json/"
+          "resource_uri": "json/pokemon/477.json"
         },
         {
           "name": "froslass",
-          "resource_uri": "/json/pokemon/478.json/"
+          "resource_uri": "json/pokemon/478.json"
         },
         {
           "name": "rotom",
-          "resource_uri": "/json/pokemon/479.json/"
+          "resource_uri": "json/pokemon/479.json"
         },
         {
           "name": "uxie",
-          "resource_uri": "/json/pokemon/480.json/"
+          "resource_uri": "json/pokemon/480.json"
         },
         {
           "name": "mesprit",
-          "resource_uri": "/json/pokemon/481.json/"
+          "resource_uri": "json/pokemon/481.json"
         },
         {
           "name": "dialga",
-          "resource_uri": "/json/pokemon/483.json/"
+          "resource_uri": "json/pokemon/483.json"
         },
         {
           "name": "vespiquen",
-          "resource_uri": "/json/pokemon/416.json/"
+          "resource_uri": "json/pokemon/416.json"
         },
         {
           "name": "pachirisu",
-          "resource_uri": "/json/pokemon/417.json/"
+          "resource_uri": "json/pokemon/417.json"
         },
         {
           "name": "buizel",
-          "resource_uri": "/json/pokemon/418.json/"
+          "resource_uri": "json/pokemon/418.json"
         },
         {
           "name": "floatzel",
-          "resource_uri": "/json/pokemon/419.json/"
+          "resource_uri": "json/pokemon/419.json"
         },
         {
           "name": "victini",
-          "resource_uri": "/json/pokemon/494.json/"
+          "resource_uri": "json/pokemon/494.json"
         },
         {
           "name": "darkrai",
-          "resource_uri": "/json/pokemon/491.json/"
+          "resource_uri": "json/pokemon/491.json"
         },
         {
           "name": "shaymin-land",
-          "resource_uri": "/json/pokemon/492.json/"
+          "resource_uri": "json/pokemon/492.json"
         },
         {
           "name": "arceus",
-          "resource_uri": "/json/pokemon/493.json/"
+          "resource_uri": "json/pokemon/493.json"
         },
         {
           "name": "snivy",
-          "resource_uri": "/json/pokemon/495.json/"
+          "resource_uri": "json/pokemon/495.json"
         },
         {
           "name": "serperior",
-          "resource_uri": "/json/pokemon/497.json/"
+          "resource_uri": "json/pokemon/497.json"
         },
         {
           "name": "servine",
-          "resource_uri": "/json/pokemon/496.json/"
+          "resource_uri": "json/pokemon/496.json"
         },
         {
           "name": "patrat",
-          "resource_uri": "/json/pokemon/504.json/"
+          "resource_uri": "json/pokemon/504.json"
         },
         {
           "name": "tepig",
-          "resource_uri": "/json/pokemon/498.json/"
+          "resource_uri": "json/pokemon/498.json"
         },
         {
           "name": "pignite",
-          "resource_uri": "/json/pokemon/499.json/"
+          "resource_uri": "json/pokemon/499.json"
         },
         {
           "name": "emboar",
-          "resource_uri": "/json/pokemon/500.json/"
+          "resource_uri": "json/pokemon/500.json"
         },
         {
           "name": "oshawott",
-          "resource_uri": "/json/pokemon/501.json/"
+          "resource_uri": "json/pokemon/501.json"
         },
         {
           "name": "dewott",
-          "resource_uri": "/json/pokemon/502.json/"
+          "resource_uri": "json/pokemon/502.json"
         },
         {
           "name": "watchog",
-          "resource_uri": "/json/pokemon/505.json/"
+          "resource_uri": "json/pokemon/505.json"
         },
         {
           "name": "lillipup",
-          "resource_uri": "/json/pokemon/506.json/"
+          "resource_uri": "json/pokemon/506.json"
         },
         {
           "name": "herdier",
-          "resource_uri": "/json/pokemon/507.json/"
+          "resource_uri": "json/pokemon/507.json"
         },
         {
           "name": "stoutland",
-          "resource_uri": "/json/pokemon/508.json/"
+          "resource_uri": "json/pokemon/508.json"
         },
         {
           "name": "purrloin",
-          "resource_uri": "/json/pokemon/509.json/"
+          "resource_uri": "json/pokemon/509.json"
         },
         {
           "name": "liepard",
-          "resource_uri": "/json/pokemon/510.json/"
+          "resource_uri": "json/pokemon/510.json"
         },
         {
           "name": "pansage",
-          "resource_uri": "/json/pokemon/511.json/"
+          "resource_uri": "json/pokemon/511.json"
         },
         {
           "name": "simisage",
-          "resource_uri": "/json/pokemon/512.json/"
+          "resource_uri": "json/pokemon/512.json"
         },
         {
           "name": "pansear",
-          "resource_uri": "/json/pokemon/513.json/"
+          "resource_uri": "json/pokemon/513.json"
         },
         {
           "name": "panpour",
-          "resource_uri": "/json/pokemon/515.json/"
+          "resource_uri": "json/pokemon/515.json"
         },
         {
           "name": "simipour",
-          "resource_uri": "/json/pokemon/516.json/"
+          "resource_uri": "json/pokemon/516.json"
         },
         {
           "name": "roggenrola",
-          "resource_uri": "/json/pokemon/524.json/"
+          "resource_uri": "json/pokemon/524.json"
         },
         {
           "name": "munna",
-          "resource_uri": "/json/pokemon/517.json/"
+          "resource_uri": "json/pokemon/517.json"
         },
         {
           "name": "musharna",
-          "resource_uri": "/json/pokemon/518.json/"
+          "resource_uri": "json/pokemon/518.json"
         },
         {
           "name": "pidove",
-          "resource_uri": "/json/pokemon/519.json/"
+          "resource_uri": "json/pokemon/519.json"
         },
         {
           "name": "tranquill",
-          "resource_uri": "/json/pokemon/520.json/"
+          "resource_uri": "json/pokemon/520.json"
         },
         {
           "name": "unfezant",
-          "resource_uri": "/json/pokemon/521.json/"
+          "resource_uri": "json/pokemon/521.json"
         },
         {
           "name": "blitzle",
-          "resource_uri": "/json/pokemon/522.json/"
+          "resource_uri": "json/pokemon/522.json"
         },
         {
           "name": "zebstrika",
-          "resource_uri": "/json/pokemon/523.json/"
+          "resource_uri": "json/pokemon/523.json"
         },
         {
           "name": "boldore",
-          "resource_uri": "/json/pokemon/525.json/"
+          "resource_uri": "json/pokemon/525.json"
         },
         {
           "name": "gigalith",
-          "resource_uri": "/json/pokemon/526.json/"
+          "resource_uri": "json/pokemon/526.json"
         },
         {
           "name": "woobat",
-          "resource_uri": "/json/pokemon/527.json/"
+          "resource_uri": "json/pokemon/527.json"
         },
         {
           "name": "swoobat",
-          "resource_uri": "/json/pokemon/528.json/"
+          "resource_uri": "json/pokemon/528.json"
         },
         {
           "name": "drilbur",
-          "resource_uri": "/json/pokemon/529.json/"
+          "resource_uri": "json/pokemon/529.json"
         },
         {
           "name": "excadrill",
-          "resource_uri": "/json/pokemon/530.json/"
+          "resource_uri": "json/pokemon/530.json"
         },
         {
           "name": "audino",
-          "resource_uri": "/json/pokemon/531.json/"
+          "resource_uri": "json/pokemon/531.json"
         },
         {
           "name": "conkeldurr",
-          "resource_uri": "/json/pokemon/534.json/"
+          "resource_uri": "json/pokemon/534.json"
         },
         {
           "name": "timburr",
-          "resource_uri": "/json/pokemon/532.json/"
+          "resource_uri": "json/pokemon/532.json"
         },
         {
           "name": "tympole",
-          "resource_uri": "/json/pokemon/535.json/"
+          "resource_uri": "json/pokemon/535.json"
         },
         {
           "name": "palpitoad",
-          "resource_uri": "/json/pokemon/536.json/"
+          "resource_uri": "json/pokemon/536.json"
         },
         {
           "name": "seismitoad",
-          "resource_uri": "/json/pokemon/537.json/"
+          "resource_uri": "json/pokemon/537.json"
         },
         {
           "name": "throh",
-          "resource_uri": "/json/pokemon/538.json/"
+          "resource_uri": "json/pokemon/538.json"
         },
         {
           "name": "sawk",
-          "resource_uri": "/json/pokemon/539.json/"
+          "resource_uri": "json/pokemon/539.json"
         },
         {
           "name": "sewaddle",
-          "resource_uri": "/json/pokemon/540.json/"
+          "resource_uri": "json/pokemon/540.json"
         },
         {
           "name": "swadloon",
-          "resource_uri": "/json/pokemon/541.json/"
+          "resource_uri": "json/pokemon/541.json"
         },
         {
           "name": "venipede",
-          "resource_uri": "/json/pokemon/543.json/"
+          "resource_uri": "json/pokemon/543.json"
         },
         {
           "name": "whirlipede",
-          "resource_uri": "/json/pokemon/544.json/"
+          "resource_uri": "json/pokemon/544.json"
         },
         {
           "name": "basculin-red-striped",
-          "resource_uri": "/json/pokemon/550.json/"
+          "resource_uri": "json/pokemon/550.json"
         },
         {
           "name": "scolipede",
-          "resource_uri": "/json/pokemon/545.json/"
+          "resource_uri": "json/pokemon/545.json"
         },
         {
           "name": "cottonee",
-          "resource_uri": "/json/pokemon/546.json/"
+          "resource_uri": "json/pokemon/546.json"
         },
         {
           "name": "whimsicott",
-          "resource_uri": "/json/pokemon/547.json/"
+          "resource_uri": "json/pokemon/547.json"
         },
         {
           "name": "petilil",
-          "resource_uri": "/json/pokemon/548.json/"
+          "resource_uri": "json/pokemon/548.json"
         },
         {
           "name": "lilligant",
-          "resource_uri": "/json/pokemon/549.json/"
+          "resource_uri": "json/pokemon/549.json"
         },
         {
           "name": "sandile",
-          "resource_uri": "/json/pokemon/551.json/"
+          "resource_uri": "json/pokemon/551.json"
         },
         {
           "name": "krokorok",
-          "resource_uri": "/json/pokemon/552.json/"
+          "resource_uri": "json/pokemon/552.json"
         },
         {
           "name": "manaphy",
-          "resource_uri": "/json/pokemon/490.json/"
+          "resource_uri": "json/pokemon/490.json"
         },
         {
           "name": "regigigas",
-          "resource_uri": "/json/pokemon/486.json/"
+          "resource_uri": "json/pokemon/486.json"
         },
         {
           "name": "giratina-altered",
-          "resource_uri": "/json/pokemon/487.json/"
+          "resource_uri": "json/pokemon/487.json"
         },
         {
           "name": "cofagrigus",
-          "resource_uri": "/json/pokemon/563.json/"
+          "resource_uri": "json/pokemon/563.json"
         },
         {
           "name": "crustle",
-          "resource_uri": "/json/pokemon/558.json/"
+          "resource_uri": "json/pokemon/558.json"
         },
         {
           "name": "tirtouga",
-          "resource_uri": "/json/pokemon/564.json/"
+          "resource_uri": "json/pokemon/564.json"
         },
         {
           "name": "scraggy",
-          "resource_uri": "/json/pokemon/559.json/"
+          "resource_uri": "json/pokemon/559.json"
         },
         {
           "name": "scrafty",
-          "resource_uri": "/json/pokemon/560.json/"
+          "resource_uri": "json/pokemon/560.json"
         },
         {
           "name": "sigilyph",
-          "resource_uri": "/json/pokemon/561.json/"
+          "resource_uri": "json/pokemon/561.json"
         },
         {
           "name": "yamask",
-          "resource_uri": "/json/pokemon/562.json/"
+          "resource_uri": "json/pokemon/562.json"
         },
         {
           "name": "zoroark",
-          "resource_uri": "/json/pokemon/571.json/"
+          "resource_uri": "json/pokemon/571.json"
         },
         {
           "name": "carracosta",
-          "resource_uri": "/json/pokemon/565.json/"
+          "resource_uri": "json/pokemon/565.json"
         },
         {
           "name": "zorua",
-          "resource_uri": "/json/pokemon/570.json/"
+          "resource_uri": "json/pokemon/570.json"
         },
         {
           "name": "archen",
-          "resource_uri": "/json/pokemon/566.json/"
+          "resource_uri": "json/pokemon/566.json"
         },
         {
           "name": "archeops",
-          "resource_uri": "/json/pokemon/567.json/"
+          "resource_uri": "json/pokemon/567.json"
         },
         {
           "name": "trubbish",
-          "resource_uri": "/json/pokemon/568.json/"
+          "resource_uri": "json/pokemon/568.json"
         },
         {
           "name": "minccino",
-          "resource_uri": "/json/pokemon/572.json/"
+          "resource_uri": "json/pokemon/572.json"
         },
         {
           "name": "cinccino",
-          "resource_uri": "/json/pokemon/573.json/"
+          "resource_uri": "json/pokemon/573.json"
         },
         {
           "name": "gothita",
-          "resource_uri": "/json/pokemon/574.json/"
+          "resource_uri": "json/pokemon/574.json"
         },
         {
           "name": "gothorita",
-          "resource_uri": "/json/pokemon/575.json/"
+          "resource_uri": "json/pokemon/575.json"
         },
         {
           "name": "gothitelle",
-          "resource_uri": "/json/pokemon/576.json/"
+          "resource_uri": "json/pokemon/576.json"
         },
         {
           "name": "solosis",
-          "resource_uri": "/json/pokemon/577.json/"
+          "resource_uri": "json/pokemon/577.json"
         },
         {
           "name": "duosion",
-          "resource_uri": "/json/pokemon/578.json/"
+          "resource_uri": "json/pokemon/578.json"
         },
         {
           "name": "vanillite",
-          "resource_uri": "/json/pokemon/582.json/"
+          "resource_uri": "json/pokemon/582.json"
         },
         {
           "name": "reuniclus",
-          "resource_uri": "/json/pokemon/579.json/"
+          "resource_uri": "json/pokemon/579.json"
         },
         {
           "name": "swanna",
-          "resource_uri": "/json/pokemon/581.json/"
+          "resource_uri": "json/pokemon/581.json"
         },
         {
           "name": "vanillish",
-          "resource_uri": "/json/pokemon/583.json/"
+          "resource_uri": "json/pokemon/583.json"
         },
         {
           "name": "vanilluxe",
-          "resource_uri": "/json/pokemon/584.json/"
+          "resource_uri": "json/pokemon/584.json"
         },
         {
           "name": "deerling",
-          "resource_uri": "/json/pokemon/585.json/"
+          "resource_uri": "json/pokemon/585.json"
         },
         {
           "name": "sawsbuck",
-          "resource_uri": "/json/pokemon/586.json/"
+          "resource_uri": "json/pokemon/586.json"
         },
         {
           "name": "karrablast",
-          "resource_uri": "/json/pokemon/588.json/"
+          "resource_uri": "json/pokemon/588.json"
         },
         {
           "name": "emolga",
-          "resource_uri": "/json/pokemon/587.json/"
+          "resource_uri": "json/pokemon/587.json"
         },
         {
           "name": "foongus",
-          "resource_uri": "/json/pokemon/590.json/"
+          "resource_uri": "json/pokemon/590.json"
         },
         {
           "name": "escavalier",
-          "resource_uri": "/json/pokemon/589.json/"
+          "resource_uri": "json/pokemon/589.json"
         },
         {
           "name": "amoonguss",
-          "resource_uri": "/json/pokemon/591.json/"
+          "resource_uri": "json/pokemon/591.json"
         },
         {
           "name": "frillish",
-          "resource_uri": "/json/pokemon/592.json/"
+          "resource_uri": "json/pokemon/592.json"
         },
         {
           "name": "galvantula",
-          "resource_uri": "/json/pokemon/596.json/"
+          "resource_uri": "json/pokemon/596.json"
         },
         {
           "name": "jellicent",
-          "resource_uri": "/json/pokemon/593.json/"
+          "resource_uri": "json/pokemon/593.json"
         },
         {
           "name": "joltik",
-          "resource_uri": "/json/pokemon/595.json/"
+          "resource_uri": "json/pokemon/595.json"
         },
         {
           "name": "alomomola",
-          "resource_uri": "/json/pokemon/594.json/"
+          "resource_uri": "json/pokemon/594.json"
         },
         {
           "name": "ferroseed",
-          "resource_uri": "/json/pokemon/597.json/"
+          "resource_uri": "json/pokemon/597.json"
         },
         {
           "name": "ferrothorn",
-          "resource_uri": "/json/pokemon/598.json/"
+          "resource_uri": "json/pokemon/598.json"
         },
         {
           "name": "tynamo",
-          "resource_uri": "/json/pokemon/602.json/"
+          "resource_uri": "json/pokemon/602.json"
         },
         {
           "name": "klink",
-          "resource_uri": "/json/pokemon/599.json/"
+          "resource_uri": "json/pokemon/599.json"
         },
         {
           "name": "eelektrik",
-          "resource_uri": "/json/pokemon/603.json/"
+          "resource_uri": "json/pokemon/603.json"
         },
         {
           "name": "klang",
-          "resource_uri": "/json/pokemon/600.json/"
+          "resource_uri": "json/pokemon/600.json"
         },
         {
           "name": "eelektross",
-          "resource_uri": "/json/pokemon/604.json/"
+          "resource_uri": "json/pokemon/604.json"
         },
         {
           "name": "elgyem",
-          "resource_uri": "/json/pokemon/605.json/"
+          "resource_uri": "json/pokemon/605.json"
         },
         {
           "name": "beheeyem",
-          "resource_uri": "/json/pokemon/606.json/"
+          "resource_uri": "json/pokemon/606.json"
         },
         {
           "name": "litwick",
-          "resource_uri": "/json/pokemon/607.json/"
+          "resource_uri": "json/pokemon/607.json"
         },
         {
           "name": "lampent",
-          "resource_uri": "/json/pokemon/608.json/"
+          "resource_uri": "json/pokemon/608.json"
         },
         {
           "name": "chandelure",
-          "resource_uri": "/json/pokemon/609.json/"
+          "resource_uri": "json/pokemon/609.json"
         },
         {
           "name": "axew",
-          "resource_uri": "/json/pokemon/610.json/"
+          "resource_uri": "json/pokemon/610.json"
         },
         {
           "name": "cubchoo",
-          "resource_uri": "/json/pokemon/613.json/"
+          "resource_uri": "json/pokemon/613.json"
         },
         {
           "name": "haxorus",
-          "resource_uri": "/json/pokemon/612.json/"
+          "resource_uri": "json/pokemon/612.json"
         },
         {
           "name": "beartic",
-          "resource_uri": "/json/pokemon/614.json/"
+          "resource_uri": "json/pokemon/614.json"
         },
         {
           "name": "cryogonal",
-          "resource_uri": "/json/pokemon/615.json/"
+          "resource_uri": "json/pokemon/615.json"
         },
         {
           "name": "shelmet",
-          "resource_uri": "/json/pokemon/616.json/"
+          "resource_uri": "json/pokemon/616.json"
         },
         {
           "name": "accelgor",
-          "resource_uri": "/json/pokemon/617.json/"
+          "resource_uri": "json/pokemon/617.json"
         },
         {
           "name": "stunfisk",
-          "resource_uri": "/json/pokemon/618.json/"
+          "resource_uri": "json/pokemon/618.json"
         },
         {
           "name": "mienfoo",
-          "resource_uri": "/json/pokemon/619.json/"
+          "resource_uri": "json/pokemon/619.json"
         },
         {
           "name": "mienshao",
-          "resource_uri": "/json/pokemon/620.json/"
+          "resource_uri": "json/pokemon/620.json"
         },
         {
           "name": "darumaka",
-          "resource_uri": "/json/pokemon/554.json/"
+          "resource_uri": "json/pokemon/554.json"
         },
         {
           "name": "maractus",
-          "resource_uri": "/json/pokemon/556.json/"
+          "resource_uri": "json/pokemon/556.json"
         },
         {
           "name": "darmanitan-standard",
-          "resource_uri": "/json/pokemon/555.json/"
+          "resource_uri": "json/pokemon/555.json"
         },
         {
           "name": "dwebble",
-          "resource_uri": "/json/pokemon/557.json/"
+          "resource_uri": "json/pokemon/557.json"
         },
         {
           "name": "bisharp",
-          "resource_uri": "/json/pokemon/625.json/"
+          "resource_uri": "json/pokemon/625.json"
         },
         {
           "name": "bouffalant",
-          "resource_uri": "/json/pokemon/626.json/"
+          "resource_uri": "json/pokemon/626.json"
         },
         {
           "name": "rufflet",
-          "resource_uri": "/json/pokemon/627.json/"
+          "resource_uri": "json/pokemon/627.json"
         },
         {
           "name": "deino",
-          "resource_uri": "/json/pokemon/633.json/"
+          "resource_uri": "json/pokemon/633.json"
         },
         {
           "name": "vullaby",
-          "resource_uri": "/json/pokemon/629.json/"
+          "resource_uri": "json/pokemon/629.json"
         },
         {
           "name": "mandibuzz",
-          "resource_uri": "/json/pokemon/630.json/"
+          "resource_uri": "json/pokemon/630.json"
         },
         {
           "name": "heatmor",
-          "resource_uri": "/json/pokemon/631.json/"
+          "resource_uri": "json/pokemon/631.json"
         },
         {
           "name": "durant",
-          "resource_uri": "/json/pokemon/632.json/"
+          "resource_uri": "json/pokemon/632.json"
         },
         {
           "name": "chesnaught",
-          "resource_uri": "/json/pokemon/652.json/"
+          "resource_uri": "json/pokemon/652.json"
         },
         {
           "name": "hydreigon",
-          "resource_uri": "/json/pokemon/635.json/"
+          "resource_uri": "json/pokemon/635.json"
         },
         {
           "name": "larvesta",
-          "resource_uri": "/json/pokemon/636.json/"
+          "resource_uri": "json/pokemon/636.json"
         },
         {
           "name": "volcarona",
-          "resource_uri": "/json/pokemon/637.json/"
+          "resource_uri": "json/pokemon/637.json"
         },
         {
           "name": "cobalion",
-          "resource_uri": "/json/pokemon/638.json/"
+          "resource_uri": "json/pokemon/638.json"
         },
         {
           "name": "terrakion",
-          "resource_uri": "/json/pokemon/639.json/"
+          "resource_uri": "json/pokemon/639.json"
         },
         {
           "name": "thundurus-incarnate",
-          "resource_uri": "/json/pokemon/642.json/"
+          "resource_uri": "json/pokemon/642.json"
         },
         {
           "name": "virizion",
-          "resource_uri": "/json/pokemon/640.json/"
+          "resource_uri": "json/pokemon/640.json"
         },
         {
           "name": "reshiram",
-          "resource_uri": "/json/pokemon/643.json/"
+          "resource_uri": "json/pokemon/643.json"
         },
         {
           "name": "zekrom",
-          "resource_uri": "/json/pokemon/644.json/"
+          "resource_uri": "json/pokemon/644.json"
         },
         {
           "name": "landorus-incarnate",
-          "resource_uri": "/json/pokemon/645.json/"
+          "resource_uri": "json/pokemon/645.json"
         },
         {
           "name": "kyurem",
-          "resource_uri": "/json/pokemon/646.json/"
+          "resource_uri": "json/pokemon/646.json"
         },
         {
           "name": "keldeo-ordinary",
-          "resource_uri": "/json/pokemon/647.json/"
+          "resource_uri": "json/pokemon/647.json"
         },
         {
           "name": "meloetta-aria",
-          "resource_uri": "/json/pokemon/648.json/"
+          "resource_uri": "json/pokemon/648.json"
         },
         {
           "name": "genesect",
-          "resource_uri": "/json/pokemon/649.json/"
+          "resource_uri": "json/pokemon/649.json"
         },
         {
           "name": "chespin",
-          "resource_uri": "/json/pokemon/650.json/"
+          "resource_uri": "json/pokemon/650.json"
         },
         {
           "name": "quilladin",
-          "resource_uri": "/json/pokemon/651.json/"
+          "resource_uri": "json/pokemon/651.json"
         },
         {
           "name": "fennekin",
-          "resource_uri": "/json/pokemon/653.json/"
+          "resource_uri": "json/pokemon/653.json"
         },
         {
           "name": "braixen",
-          "resource_uri": "/json/pokemon/654.json/"
+          "resource_uri": "json/pokemon/654.json"
         },
         {
           "name": "fletchinder",
-          "resource_uri": "/json/pokemon/662.json/"
+          "resource_uri": "json/pokemon/662.json"
         },
         {
           "name": "delphox",
-          "resource_uri": "/json/pokemon/655.json/"
+          "resource_uri": "json/pokemon/655.json"
         },
         {
           "name": "froakie",
-          "resource_uri": "/json/pokemon/656.json/"
+          "resource_uri": "json/pokemon/656.json"
         },
         {
           "name": "frogadier",
-          "resource_uri": "/json/pokemon/657.json/"
+          "resource_uri": "json/pokemon/657.json"
         },
         {
           "name": "greninja",
-          "resource_uri": "/json/pokemon/658.json/"
+          "resource_uri": "json/pokemon/658.json"
         },
         {
           "name": "bunnelby",
-          "resource_uri": "/json/pokemon/659.json/"
+          "resource_uri": "json/pokemon/659.json"
         },
         {
           "name": "diggersby",
-          "resource_uri": "/json/pokemon/660.json/"
+          "resource_uri": "json/pokemon/660.json"
         },
         {
           "name": "fletchling",
-          "resource_uri": "/json/pokemon/661.json/"
+          "resource_uri": "json/pokemon/661.json"
         },
         {
           "name": "talonflame",
-          "resource_uri": "/json/pokemon/663.json/"
+          "resource_uri": "json/pokemon/663.json"
         },
         {
           "name": "vivillon",
-          "resource_uri": "/json/pokemon/666.json/"
+          "resource_uri": "json/pokemon/666.json"
         },
         {
           "name": "scatterbug",
-          "resource_uri": "/json/pokemon/664.json/"
+          "resource_uri": "json/pokemon/664.json"
         },
         {
           "name": "florges",
-          "resource_uri": "/json/pokemon/671.json/"
+          "resource_uri": "json/pokemon/671.json"
         },
         {
           "name": "spewpa",
-          "resource_uri": "/json/pokemon/665.json/"
+          "resource_uri": "json/pokemon/665.json"
         },
         {
           "name": "litleo",
-          "resource_uri": "/json/pokemon/667.json/"
+          "resource_uri": "json/pokemon/667.json"
         },
         {
           "name": "flabebe",
-          "resource_uri": "/json/pokemon/669.json/"
+          "resource_uri": "json/pokemon/669.json"
         },
         {
           "name": "floette",
-          "resource_uri": "/json/pokemon/670.json/"
+          "resource_uri": "json/pokemon/670.json"
         },
         {
           "name": "skiddo",
-          "resource_uri": "/json/pokemon/672.json/"
+          "resource_uri": "json/pokemon/672.json"
         },
         {
           "name": "gogoat",
-          "resource_uri": "/json/pokemon/673.json/"
+          "resource_uri": "json/pokemon/673.json"
         },
         {
           "name": "pancham",
-          "resource_uri": "/json/pokemon/674.json/"
+          "resource_uri": "json/pokemon/674.json"
         },
         {
           "name": "meowstic-male",
-          "resource_uri": "/json/pokemon/678.json/"
+          "resource_uri": "json/pokemon/678.json"
         },
         {
           "name": "furfrou",
-          "resource_uri": "/json/pokemon/676.json/"
+          "resource_uri": "json/pokemon/676.json"
         },
         {
           "name": "espurr",
-          "resource_uri": "/json/pokemon/677.json/"
+          "resource_uri": "json/pokemon/677.json"
         },
         {
           "name": "honedge",
-          "resource_uri": "/json/pokemon/679.json/"
+          "resource_uri": "json/pokemon/679.json"
         },
         {
           "name": "doublade",
-          "resource_uri": "/json/pokemon/680.json/"
+          "resource_uri": "json/pokemon/680.json"
         },
         {
           "name": "spritzee",
-          "resource_uri": "/json/pokemon/682.json/"
+          "resource_uri": "json/pokemon/682.json"
         },
         {
           "name": "swirlix",
-          "resource_uri": "/json/pokemon/684.json/"
+          "resource_uri": "json/pokemon/684.json"
         },
         {
           "name": "aromatisse",
-          "resource_uri": "/json/pokemon/683.json/"
+          "resource_uri": "json/pokemon/683.json"
         },
         {
           "name": "slurpuff",
-          "resource_uri": "/json/pokemon/685.json/"
+          "resource_uri": "json/pokemon/685.json"
         },
         {
           "name": "inkay",
-          "resource_uri": "/json/pokemon/686.json/"
+          "resource_uri": "json/pokemon/686.json"
         },
         {
           "name": "malamar",
-          "resource_uri": "/json/pokemon/687.json/"
+          "resource_uri": "json/pokemon/687.json"
         },
         {
           "name": "binacle",
-          "resource_uri": "/json/pokemon/688.json/"
+          "resource_uri": "json/pokemon/688.json"
         },
         {
           "name": "aegislash",
-          "resource_uri": "/json/pokemon/681.json/"
+          "resource_uri": "json/pokemon/681.json"
         },
         {
           "name": "golett",
-          "resource_uri": "/json/pokemon/622.json/"
+          "resource_uri": "json/pokemon/622.json"
         },
         {
           "name": "golurk",
-          "resource_uri": "/json/pokemon/623.json/"
+          "resource_uri": "json/pokemon/623.json"
         },
         {
           "name": "pawniard",
-          "resource_uri": "/json/pokemon/624.json/"
+          "resource_uri": "json/pokemon/624.json"
         },
         {
           "name": "braviary",
-          "resource_uri": "/json/pokemon/628.json/"
+          "resource_uri": "json/pokemon/628.json"
         },
         {
           "name": "clawitzer",
-          "resource_uri": "/json/pokemon/693.json/"
+          "resource_uri": "json/pokemon/693.json"
         },
         {
           "name": "sylveon",
-          "resource_uri": "/json/pokemon/700.json/"
+          "resource_uri": "json/pokemon/700.json"
         },
         {
           "name": "tyrunt",
-          "resource_uri": "/json/pokemon/696.json/"
+          "resource_uri": "json/pokemon/696.json"
         },
         {
           "name": "dedenne",
-          "resource_uri": "/json/pokemon/702.json/"
+          "resource_uri": "json/pokemon/702.json"
         },
         {
           "name": "tyrantrum",
-          "resource_uri": "/json/pokemon/697.json/"
+          "resource_uri": "json/pokemon/697.json"
         },
         {
           "name": "carbink",
-          "resource_uri": "/json/pokemon/703.json/"
+          "resource_uri": "json/pokemon/703.json"
         },
         {
           "name": "amaura",
-          "resource_uri": "/json/pokemon/698.json/"
+          "resource_uri": "json/pokemon/698.json"
         },
         {
           "name": "aurorus",
-          "resource_uri": "/json/pokemon/699.json/"
+          "resource_uri": "json/pokemon/699.json"
         },
         {
           "name": "hawlucha",
-          "resource_uri": "/json/pokemon/701.json/"
+          "resource_uri": "json/pokemon/701.json"
         },
         {
           "name": "goodra",
-          "resource_uri": "/json/pokemon/706.json/"
+          "resource_uri": "json/pokemon/706.json"
         },
         {
           "name": "klefki",
-          "resource_uri": "/json/pokemon/707.json/"
+          "resource_uri": "json/pokemon/707.json"
         },
         {
           "name": "goomy",
-          "resource_uri": "/json/pokemon/704.json/"
+          "resource_uri": "json/pokemon/704.json"
         },
         {
           "name": "phantump",
-          "resource_uri": "/json/pokemon/708.json/"
+          "resource_uri": "json/pokemon/708.json"
         },
         {
           "name": "sliggoo",
-          "resource_uri": "/json/pokemon/705.json/"
+          "resource_uri": "json/pokemon/705.json"
         },
         {
           "name": "noibat",
-          "resource_uri": "/json/pokemon/714.json/"
+          "resource_uri": "json/pokemon/714.json"
         },
         {
           "name": "trevenant",
-          "resource_uri": "/json/pokemon/709.json/"
+          "resource_uri": "json/pokemon/709.json"
         },
         {
           "name": "pumpkaboo-average",
-          "resource_uri": "/json/pokemon/710.json/"
+          "resource_uri": "json/pokemon/710.json"
         },
         {
           "name": "bergmite",
-          "resource_uri": "/json/pokemon/712.json/"
+          "resource_uri": "json/pokemon/712.json"
         },
         {
           "name": "gourgeist-average",
-          "resource_uri": "/json/pokemon/711.json/"
+          "resource_uri": "json/pokemon/711.json"
         },
         {
           "name": "avalugg",
-          "resource_uri": "/json/pokemon/713.json/"
+          "resource_uri": "json/pokemon/713.json"
         },
         {
           "name": "noivern",
-          "resource_uri": "/json/pokemon/715.json/"
+          "resource_uri": "json/pokemon/715.json"
         },
         {
           "name": "zygarde",
-          "resource_uri": "/json/pokemon/718.json/"
+          "resource_uri": "json/pokemon/718.json"
         },
         {
           "name": "xerneas",
-          "resource_uri": "/json/pokemon/716.json/"
+          "resource_uri": "json/pokemon/716.json"
         },
         {
           "name": "yveltal",
-          "resource_uri": "/json/pokemon/717.json/"
+          "resource_uri": "json/pokemon/717.json"
         },
         {
           "name": "skrelp",
-          "resource_uri": "/json/pokemon/690.json/"
+          "resource_uri": "json/pokemon/690.json"
         },
         {
           "name": "heliolisk",
-          "resource_uri": "/json/pokemon/695.json/"
+          "resource_uri": "json/pokemon/695.json"
         },
         {
           "name": "clauncher",
-          "resource_uri": "/json/pokemon/692.json/"
+          "resource_uri": "json/pokemon/692.json"
         },
         {
           "name": "kabutops",
-          "resource_uri": "/json/pokemon/141.json/"
+          "resource_uri": "json/pokemon/141.json"
         },
         {
           "name": "leavanny",
-          "resource_uri": "/json/pokemon/542.json/"
+          "resource_uri": "json/pokemon/542.json"
         },
         {
           "name": "snubbull",
-          "resource_uri": "/json/pokemon/209.json/"
+          "resource_uri": "json/pokemon/209.json"
         },
         {
           "name": "dragonite",
-          "resource_uri": "/json/pokemon/149.json/"
+          "resource_uri": "json/pokemon/149.json"
         },
         {
           "name": "steelix",
-          "resource_uri": "/json/pokemon/208.json/"
+          "resource_uri": "json/pokemon/208.json"
         },
         {
           "name": "tyranitar",
-          "resource_uri": "/json/pokemon/248.json/"
+          "resource_uri": "json/pokemon/248.json"
         },
         {
           "name": "swellow",
-          "resource_uri": "/json/pokemon/277.json/"
+          "resource_uri": "json/pokemon/277.json"
         },
         {
           "name": "wailord",
-          "resource_uri": "/json/pokemon/321.json/"
+          "resource_uri": "json/pokemon/321.json"
         },
         {
           "name": "cradily",
-          "resource_uri": "/json/pokemon/346.json/"
+          "resource_uri": "json/pokemon/346.json"
         },
         {
           "name": "deoxys-normal",
-          "resource_uri": "/json/pokemon/386.json/"
+          "resource_uri": "json/pokemon/386.json"
         },
         {
           "name": "azelf",
-          "resource_uri": "/json/pokemon/482.json/"
+          "resource_uri": "json/pokemon/482.json"
         },
         {
           "name": "wormadam-plant",
-          "resource_uri": "/json/pokemon/413.json/"
+          "resource_uri": "json/pokemon/413.json"
         },
         {
           "name": "krookodile",
-          "resource_uri": "/json/pokemon/553.json/"
+          "resource_uri": "json/pokemon/553.json"
         },
         {
           "name": "ducklett",
-          "resource_uri": "/json/pokemon/580.json/"
+          "resource_uri": "json/pokemon/580.json"
         },
         {
           "name": "barbaracle",
-          "resource_uri": "/json/pokemon/689.json/"
+          "resource_uri": "json/pokemon/689.json"
         },
         {
           "name": "omastar",
-          "resource_uri": "/json/pokemon/139.json/"
+          "resource_uri": "json/pokemon/139.json"
         },
         {
           "name": "seaking",
-          "resource_uri": "/json/pokemon/119.json/"
+          "resource_uri": "json/pokemon/119.json"
         },
         {
           "name": "flaaffy",
-          "resource_uri": "/json/pokemon/180.json/"
+          "resource_uri": "json/pokemon/180.json"
         },
         {
           "name": "shedinja",
-          "resource_uri": "/json/pokemon/292.json/"
+          "resource_uri": "json/pokemon/292.json"
         },
         {
           "name": "tropius",
-          "resource_uri": "/json/pokemon/357.json/"
+          "resource_uri": "json/pokemon/357.json"
         },
         {
           "name": "combee",
-          "resource_uri": "/json/pokemon/415.json/"
+          "resource_uri": "json/pokemon/415.json"
         },
         {
           "name": "shellos",
-          "resource_uri": "/json/pokemon/422.json/"
+          "resource_uri": "json/pokemon/422.json"
         },
         {
           "name": "skorupi",
-          "resource_uri": "/json/pokemon/451.json/"
+          "resource_uri": "json/pokemon/451.json"
         },
         {
           "name": "heatran",
-          "resource_uri": "/json/pokemon/485.json/"
+          "resource_uri": "json/pokemon/485.json"
         },
         {
           "name": "palkia",
-          "resource_uri": "/json/pokemon/484.json/"
+          "resource_uri": "json/pokemon/484.json"
         },
         {
           "name": "simisear",
-          "resource_uri": "/json/pokemon/514.json/"
+          "resource_uri": "json/pokemon/514.json"
         },
         {
           "name": "tornadus-incarnate",
-          "resource_uri": "/json/pokemon/641.json/"
+          "resource_uri": "json/pokemon/641.json"
         },
         {
           "name": "fraxure",
-          "resource_uri": "/json/pokemon/611.json/"
+          "resource_uri": "json/pokemon/611.json"
         },
         {
           "name": "druddigon",
-          "resource_uri": "/json/pokemon/621.json/"
+          "resource_uri": "json/pokemon/621.json"
         },
         {
           "name": "pangoro",
-          "resource_uri": "/json/pokemon/675.json/"
+          "resource_uri": "json/pokemon/675.json"
         },
         {
           "name": "helioptile",
-          "resource_uri": "/json/pokemon/694.json/"
+          "resource_uri": "json/pokemon/694.json"
         },
         {
           "name": "dragalge",
-          "resource_uri": "/json/pokemon/691.json/"
+          "resource_uri": "json/pokemon/691.json"
         },
         {
           "name": "samurott",
-          "resource_uri": "/json/pokemon/503.json/"
+          "resource_uri": "json/pokemon/503.json"
         },
         {
           "name": "teddiursa",
-          "resource_uri": "/json/pokemon/216.json/"
+          "resource_uri": "json/pokemon/216.json"
         },
         {
           "name": "salamence",
-          "resource_uri": "/json/pokemon/373.json/"
+          "resource_uri": "json/pokemon/373.json"
         },
         {
           "name": "gurdurr",
-          "resource_uri": "/json/pokemon/533.json/"
+          "resource_uri": "json/pokemon/533.json"
         },
         {
           "name": "hitmontop",
-          "resource_uri": "/json/pokemon/237.json/"
+          "resource_uri": "json/pokemon/237.json"
         },
         {
           "name": "bibarel",
-          "resource_uri": "/json/pokemon/400.json/"
+          "resource_uri": "json/pokemon/400.json"
         },
         {
           "name": "marowak",
-          "resource_uri": "/json/pokemon/105.json/"
+          "resource_uri": "json/pokemon/105.json"
         },
         {
           "name": "zigzagoon",
-          "resource_uri": "/json/pokemon/263.json/"
+          "resource_uri": "json/pokemon/263.json"
         },
         {
           "name": "garbodor",
-          "resource_uri": "/json/pokemon/569.json/"
+          "resource_uri": "json/pokemon/569.json"
         },
         {
           "name": "magikarp",
-          "resource_uri": "/json/pokemon/129.json/"
+          "resource_uri": "json/pokemon/129.json"
         },
         {
           "name": "chatot",
-          "resource_uri": "/json/pokemon/441.json/"
+          "resource_uri": "json/pokemon/441.json"
         },
         {
           "name": "gardevoir",
-          "resource_uri": "/json/pokemon/282.json/"
+          "resource_uri": "json/pokemon/282.json"
         },
         {
           "name": "spinarak",
-          "resource_uri": "/json/pokemon/167.json/"
+          "resource_uri": "json/pokemon/167.json"
         },
         {
           "name": "klinklang",
-          "resource_uri": "/json/pokemon/601.json/"
+          "resource_uri": "json/pokemon/601.json"
         },
         {
           "name": "tangrowth",
-          "resource_uri": "/json/pokemon/465.json/"
+          "resource_uri": "json/pokemon/465.json"
         },
         {
           "name": "meditite",
-          "resource_uri": "/json/pokemon/307.json/"
+          "resource_uri": "json/pokemon/307.json"
         },
         {
           "name": "slowking",
-          "resource_uri": "/json/pokemon/199.json/"
+          "resource_uri": "json/pokemon/199.json"
         },
         {
           "name": "cresselia",
-          "resource_uri": "/json/pokemon/488.json/"
+          "resource_uri": "json/pokemon/488.json"
         },
         {
           "name": "zangoose",
-          "resource_uri": "/json/pokemon/335.json/"
+          "resource_uri": "json/pokemon/335.json"
         },
         {
           "name": "phione",
-          "resource_uri": "/json/pokemon/489.json/"
+          "resource_uri": "json/pokemon/489.json"
         },
         {
           "name": "zweilous",
-          "resource_uri": "/json/pokemon/634.json/"
+          "resource_uri": "json/pokemon/634.json"
         },
         {
           "name": "pyroar",
-          "resource_uri": "/json/pokemon/668.json/"
+          "resource_uri": "json/pokemon/668.json"
         }
       ],
       "resource_uri": "/api/v1/pokedex/1/"
